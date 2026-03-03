@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\05.02.26\MaxDeletion\bin\Debug\net10.0\MaxDeletion.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\05.02.26\MaxDeletion\bin\Debug\net10.0\MaxDeletion.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\05.02.26\MaxDeletion\bin\Debug\net10.0\MaxDeletion.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\05.02.26\MaxDeletion\bin\Debug\net10.0\MaxDeletion.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\05.02.26\MaxDeletion\bin\Debug\net10.0\MaxDeletion.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\05.02.26\MaxDeletion\obj\Debug\net10.0\MaxDeletion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\05.02.26\MaxDeletion\obj\Debug\net10.0\MaxDeletion.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\05.02.26\MaxDeletion\obj\Debug\net10.0\MaxDeletion.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\05.02.26\MaxDeletion\obj\Debug\net10.0\MaxDeletion.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\05.02.26\MaxDeletion\obj\Debug\net10.0\MaxDeletion.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\05.02.26\MaxDeletion\obj\Debug\net10.0\refint\MaxDeletion.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\05.02.26\MaxDeletion\obj\Debug\net10.0\MaxDeletion.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\05.02.26\MaxDeletion\obj\Debug\net10.0\MaxDeletion.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\05.02.26\MaxDeletion\obj\Debug\net10.0\ref\MaxDeletion.dll

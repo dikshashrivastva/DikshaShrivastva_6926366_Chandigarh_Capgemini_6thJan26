@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SearchAndRemove\bin\Debug\net10.0\SearchAndRemove.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SearchAndRemove\bin\Debug\net10.0\SearchAndRemove.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SearchAndRemove\bin\Debug\net10.0\SearchAndRemove.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SearchAndRemove\bin\Debug\net10.0\SearchAndRemove.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SearchAndRemove\bin\Debug\net10.0\SearchAndRemove.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SearchAndRemove\obj\Debug\net10.0\SearchAndRemove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SearchAndRemove\obj\Debug\net10.0\SearchAndRemove.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SearchAndRemove\obj\Debug\net10.0\SearchAndRemove.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SearchAndRemove\obj\Debug\net10.0\SearchAndRemove.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SearchAndRemove\obj\Debug\net10.0\SearchAndRemove.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SearchAndRemove\obj\Debug\net10.0\refint\SearchAndRemove.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SearchAndRemove\obj\Debug\net10.0\SearchAndRemove.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SearchAndRemove\obj\Debug\net10.0\SearchAndRemove.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SearchAndRemove\obj\Debug\net10.0\ref\SearchAndRemove.dll

@@ -1,0 +1,4 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week1\day3_08.01.26\HandsOnDay3\obj\Debug\net10.0\HandsOnDay3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week1\day3_08.01.26\HandsOnDay3\obj\Debug\net10.0\HandsOnDay3.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week1\day3_08.01.26\HandsOnDay3\obj\Debug\net10.0\HandsOnDay3.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week1\day3_08.01.26\HandsOnDay3\obj\Debug\net10.0\HandsOnDay3.csproj.CoreCompileInputs.cache

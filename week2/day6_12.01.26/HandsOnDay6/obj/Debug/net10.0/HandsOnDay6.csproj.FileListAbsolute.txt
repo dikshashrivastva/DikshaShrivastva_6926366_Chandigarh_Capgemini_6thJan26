@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day6_12.01.26\HandsOnDay6\bin\Debug\net10.0\HandsOnDay6.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day6_12.01.26\HandsOnDay6\bin\Debug\net10.0\HandsOnDay6.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day6_12.01.26\HandsOnDay6\bin\Debug\net10.0\HandsOnDay6.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day6_12.01.26\HandsOnDay6\bin\Debug\net10.0\HandsOnDay6.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day6_12.01.26\HandsOnDay6\bin\Debug\net10.0\HandsOnDay6.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day6_12.01.26\HandsOnDay6\obj\Debug\net10.0\HandsOnDay6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day6_12.01.26\HandsOnDay6\obj\Debug\net10.0\HandsOnDay6.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day6_12.01.26\HandsOnDay6\obj\Debug\net10.0\HandsOnDay6.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day6_12.01.26\HandsOnDay6\obj\Debug\net10.0\HandsOnDay6.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day6_12.01.26\HandsOnDay6\obj\Debug\net10.0\HandsOnDay6.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day6_12.01.26\HandsOnDay6\obj\Debug\net10.0\refint\HandsOnDay6.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day6_12.01.26\HandsOnDay6\obj\Debug\net10.0\HandsOnDay6.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day6_12.01.26\HandsOnDay6\obj\Debug\net10.0\HandsOnDay6.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day6_12.01.26\HandsOnDay6\obj\Debug\net10.0\ref\HandsOnDay6.dll

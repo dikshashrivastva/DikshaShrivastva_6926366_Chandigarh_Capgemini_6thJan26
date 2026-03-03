@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\PatientCaseStudy\bin\Debug\net10.0\PatientCaseStudy.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\PatientCaseStudy\bin\Debug\net10.0\PatientCaseStudy.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\PatientCaseStudy\bin\Debug\net10.0\PatientCaseStudy.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\PatientCaseStudy\bin\Debug\net10.0\PatientCaseStudy.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\PatientCaseStudy\bin\Debug\net10.0\PatientCaseStudy.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\PatientCaseStudy\obj\Debug\net10.0\PatientCaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\PatientCaseStudy\obj\Debug\net10.0\PatientCaseStudy.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\PatientCaseStudy\obj\Debug\net10.0\PatientCaseStudy.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\PatientCaseStudy\obj\Debug\net10.0\PatientCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\PatientCaseStudy\obj\Debug\net10.0\PatientCaseStudy.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\PatientCaseStudy\obj\Debug\net10.0\refint\PatientCaseStudy.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\PatientCaseStudy\obj\Debug\net10.0\PatientCaseStudy.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\PatientCaseStudy\obj\Debug\net10.0\PatientCaseStudy.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\PatientCaseStudy\obj\Debug\net10.0\ref\PatientCaseStudy.dll

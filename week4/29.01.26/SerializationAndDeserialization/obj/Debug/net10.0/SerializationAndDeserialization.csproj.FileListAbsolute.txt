@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\SerializationAndDeserialization\bin\Debug\net10.0\SerializationAndDeserialization.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\SerializationAndDeserialization\bin\Debug\net10.0\SerializationAndDeserialization.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\SerializationAndDeserialization\bin\Debug\net10.0\SerializationAndDeserialization.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\SerializationAndDeserialization\bin\Debug\net10.0\SerializationAndDeserialization.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\SerializationAndDeserialization\bin\Debug\net10.0\SerializationAndDeserialization.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\SerializationAndDeserialization\obj\Debug\net10.0\SerializationAndDeserialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\SerializationAndDeserialization\obj\Debug\net10.0\SerializationAndDeserialization.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\SerializationAndDeserialization\obj\Debug\net10.0\SerializationAndDeserialization.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\SerializationAndDeserialization\obj\Debug\net10.0\SerializationAndDeserialization.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\SerializationAndDeserialization\obj\Debug\net10.0\SerializationAndDeserialization.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\SerializationAndDeserialization\obj\Debug\net10.0\refint\SerializationAndDeserialization.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\SerializationAndDeserialization\obj\Debug\net10.0\SerializationAndDeserialization.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\SerializationAndDeserialization\obj\Debug\net10.0\SerializationAndDeserialization.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\SerializationAndDeserialization\obj\Debug\net10.0\ref\SerializationAndDeserialization.dll

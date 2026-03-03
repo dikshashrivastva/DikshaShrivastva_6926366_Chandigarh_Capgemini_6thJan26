@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\EccomerceProduct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DFF373-1AA6-4680-91BD-1F94CB5D2E32}|EccomerceProduct.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week3\\day12_19.01.26\\eccomerceproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DFF373-1AA6-4680-91BD-1F94CB5D2E32}|EccomerceProduct.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DFF373-1AA6-4680-91BD-1F94CB5D2E32}|EccomerceProduct.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week3\\day12_19.01.26\\eccomerceproduct\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DFF373-1AA6-4680-91BD-1F94CB5D2E32}|EccomerceProduct.csproj|solutionrelative:cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DFF373-1AA6-4680-91BD-1F94CB5D2E32}|EccomerceProduct.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week3\\day12_19.01.26\\eccomerceproduct\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DFF373-1AA6-4680-91BD-1F94CB5D2E32}|EccomerceProduct.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DFF373-1AA6-4680-91BD-1F94CB5D2E32}|EccomerceProduct.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week3\\day12_19.01.26\\eccomerceproduct\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DFF373-1AA6-4680-91BD-1F94CB5D2E32}|EccomerceProduct.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DFF373-1AA6-4680-91BD-1F94CB5D2E32}|EccomerceProduct.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week3\\day12_19.01.26\\eccomerceproduct\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DFF373-1AA6-4680-91BD-1F94CB5D2E32}|EccomerceProduct.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DFF373-1AA6-4680-91BD-1F94CB5D2E32}|EccomerceProduct.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week3\\day12_19.01.26\\eccomerceproduct\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DFF373-1AA6-4680-91BD-1F94CB5D2E32}|EccomerceProduct.csproj|solutionrelative:books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DFF373-1AA6-4680-91BD-1F94CB5D2E32}|EccomerceProduct.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week3\\day12_19.01.26\\eccomerceproduct\\clothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DFF373-1AA6-4680-91BD-1F94CB5D2E32}|EccomerceProduct.csproj|solutionrelative:clothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DFF373-1AA6-4680-91BD-1F94CB5D2E32}|EccomerceProduct.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week3\\day12_19.01.26\\eccomerceproduct\\electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DFF373-1AA6-4680-91BD-1F94CB5D2E32}|EccomerceProduct.csproj|solutionrelative:electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\EccomerceProduct\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\EccomerceProduct\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:40:36.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\EccomerceProduct\\Cart.cs",
+              "RelativeDocumentMoniker": "Cart.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\EccomerceProduct\\Cart.cs",
+              "RelativeToolTip": "Cart.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:39:59.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\EccomerceProduct\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\EccomerceProduct\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:34:55.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\EccomerceProduct\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\EccomerceProduct\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:35:40.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\EccomerceProduct\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\EccomerceProduct\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:39:20.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\EccomerceProduct\\Books.cs",
+              "RelativeDocumentMoniker": "Books.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\EccomerceProduct\\Books.cs",
+              "RelativeToolTip": "Books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:38:54.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Clothing.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\EccomerceProduct\\Clothing.cs",
+              "RelativeDocumentMoniker": "Clothing.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\EccomerceProduct\\Clothing.cs",
+              "RelativeToolTip": "Clothing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:38:23.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Electronics.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\EccomerceProduct\\Electronics.cs",
+              "RelativeDocumentMoniker": "Electronics.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\EccomerceProduct\\Electronics.cs",
+              "RelativeToolTip": "Electronics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:37:27.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

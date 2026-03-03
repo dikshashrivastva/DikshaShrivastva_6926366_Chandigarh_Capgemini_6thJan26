@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\StringCompress\bin\Debug\net10.0\StringCompress.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\StringCompress\bin\Debug\net10.0\StringCompress.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\StringCompress\bin\Debug\net10.0\StringCompress.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\StringCompress\bin\Debug\net10.0\StringCompress.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\StringCompress\bin\Debug\net10.0\StringCompress.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\StringCompress\obj\Debug\net10.0\StringCompress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\StringCompress\obj\Debug\net10.0\StringCompress.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\StringCompress\obj\Debug\net10.0\StringCompress.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\StringCompress\obj\Debug\net10.0\StringCompress.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\StringCompress\obj\Debug\net10.0\StringCompress.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\StringCompress\obj\Debug\net10.0\refint\StringCompress.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\StringCompress\obj\Debug\net10.0\StringCompress.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\StringCompress\obj\Debug\net10.0\StringCompress.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\StringCompress\obj\Debug\net10.0\ref\StringCompress.dll

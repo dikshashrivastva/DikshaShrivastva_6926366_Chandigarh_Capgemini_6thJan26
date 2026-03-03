@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\CountOFElements\bin\Debug\net10.0\CountOFElements.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\CountOFElements\bin\Debug\net10.0\CountOFElements.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\CountOFElements\bin\Debug\net10.0\CountOFElements.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\CountOFElements\bin\Debug\net10.0\CountOFElements.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\CountOFElements\bin\Debug\net10.0\CountOFElements.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\CountOFElements\obj\Debug\net10.0\CountOFElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\CountOFElements\obj\Debug\net10.0\CountOFElements.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\CountOFElements\obj\Debug\net10.0\CountOFElements.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\CountOFElements\obj\Debug\net10.0\CountOFElements.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\CountOFElements\obj\Debug\net10.0\CountOFElements.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\CountOFElements\obj\Debug\net10.0\refint\CountOFElements.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\CountOFElements\obj\Debug\net10.0\CountOFElements.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\CountOFElements\obj\Debug\net10.0\CountOFElements.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\CountOFElements\obj\Debug\net10.0\ref\CountOFElements.dll

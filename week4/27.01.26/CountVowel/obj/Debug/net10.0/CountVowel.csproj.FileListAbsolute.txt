@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\CountVowel\bin\Debug\net10.0\CountVowel.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\CountVowel\bin\Debug\net10.0\CountVowel.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\CountVowel\bin\Debug\net10.0\CountVowel.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\CountVowel\bin\Debug\net10.0\CountVowel.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\CountVowel\bin\Debug\net10.0\CountVowel.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\CountVowel\obj\Debug\net10.0\CountVowel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\CountVowel\obj\Debug\net10.0\CountVowel.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\CountVowel\obj\Debug\net10.0\CountVowel.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\CountVowel\obj\Debug\net10.0\CountVowel.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\CountVowel\obj\Debug\net10.0\CountVowel.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\CountVowel\obj\Debug\net10.0\refint\CountVowel.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\CountVowel\obj\Debug\net10.0\CountVowel.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\CountVowel\obj\Debug\net10.0\CountVowel.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\CountVowel\obj\Debug\net10.0\ref\CountVowel.dll

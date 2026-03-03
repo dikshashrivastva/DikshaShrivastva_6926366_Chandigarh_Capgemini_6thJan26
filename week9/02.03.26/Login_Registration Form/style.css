@@ -1,0 +1,114 @@
+/* ===== RESET ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ===== BODY ===== */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    height: 100vh;
+
+    /* Sky Blue → Baby Pink Gradient */
+    background: linear-gradient(135deg, #87CEFA, #ffb6c1);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ===== CONTAINER ===== */
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ===== FORM CARD ===== */
+.form-card {
+    width: 350px;
+    padding: 40px;
+    background: rgba(255, 255, 255, 0.95);
+
+    border-radius: 25px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+
+    transition: all 0.3s ease;
+}
+
+.form-card:hover {
+    transform: translateY(-8px);
+}
+
+/* ===== HEADING ===== */
+.form-card h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 26px;
+    color: #ff69b4; /* Baby Pink */
+}
+
+/* ===== INPUT GROUP ===== */
+.input-group {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+/* ===== LABEL ===== */
+label {
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: #4682B4; /* Sky Blue shade */
+}
+
+/* ===== INPUT ===== */
+input {
+    padding: 12px 14px;
+    border-radius: 15px;
+    border: 2px solid #87CEFA;
+    outline: none;
+    font-size: 14px;
+    transition: 0.3s ease;
+}
+
+/* ===== INPUT FOCUS EFFECT ===== */
+input:focus {
+    border-color: #ff69b4;
+    box-shadow: 0 0 12px rgba(255, 105, 180, 0.4);
+}
+
+/* ===== BUTTON ===== */
+button {
+    width: 100%;
+    padding: 13px;
+    border-radius: 15px;
+    border: none;
+
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+
+    cursor: pointer;
+
+    /* Pink → Blue Button Gradient */
+    background: linear-gradient(to right, #ff69b4, #87CEFA);
+
+    transition: all 0.3s ease;
+}
+
+/* Hover Effect */
+button:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 500px) {
+    .form-card {
+        width: 90%;
+        padding: 30px;
+    }
+}

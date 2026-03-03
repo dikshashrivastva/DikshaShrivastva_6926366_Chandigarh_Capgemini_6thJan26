@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\MultipleOfFive\bin\Debug\net10.0\MultipleOfFive.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\MultipleOfFive\bin\Debug\net10.0\MultipleOfFive.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\MultipleOfFive\bin\Debug\net10.0\MultipleOfFive.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\MultipleOfFive\bin\Debug\net10.0\MultipleOfFive.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\MultipleOfFive\bin\Debug\net10.0\MultipleOfFive.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\MultipleOfFive\obj\Debug\net10.0\MultipleOfFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\MultipleOfFive\obj\Debug\net10.0\MultipleOfFive.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\MultipleOfFive\obj\Debug\net10.0\MultipleOfFive.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\MultipleOfFive\obj\Debug\net10.0\MultipleOfFive.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\MultipleOfFive\obj\Debug\net10.0\MultipleOfFive.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\MultipleOfFive\obj\Debug\net10.0\refint\MultipleOfFive.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\MultipleOfFive\obj\Debug\net10.0\MultipleOfFive.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\MultipleOfFive\obj\Debug\net10.0\MultipleOfFive.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\MultipleOfFive\obj\Debug\net10.0\ref\MultipleOfFive.dll

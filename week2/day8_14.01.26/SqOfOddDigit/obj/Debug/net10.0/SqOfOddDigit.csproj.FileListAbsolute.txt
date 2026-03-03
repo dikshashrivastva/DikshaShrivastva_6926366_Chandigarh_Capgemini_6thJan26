@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SqOfOddDigit\bin\Debug\net10.0\SqOfOddDigit.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SqOfOddDigit\bin\Debug\net10.0\SqOfOddDigit.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SqOfOddDigit\bin\Debug\net10.0\SqOfOddDigit.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SqOfOddDigit\bin\Debug\net10.0\SqOfOddDigit.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SqOfOddDigit\bin\Debug\net10.0\SqOfOddDigit.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SqOfOddDigit\obj\Debug\net10.0\SqOfOddDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SqOfOddDigit\obj\Debug\net10.0\SqOfOddDigit.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SqOfOddDigit\obj\Debug\net10.0\SqOfOddDigit.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SqOfOddDigit\obj\Debug\net10.0\SqOfOddDigit.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SqOfOddDigit\obj\Debug\net10.0\SqOfOddDigit.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SqOfOddDigit\obj\Debug\net10.0\refint\SqOfOddDigit.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SqOfOddDigit\obj\Debug\net10.0\SqOfOddDigit.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SqOfOddDigit\obj\Debug\net10.0\SqOfOddDigit.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\SqOfOddDigit\obj\Debug\net10.0\ref\SqOfOddDigit.dll

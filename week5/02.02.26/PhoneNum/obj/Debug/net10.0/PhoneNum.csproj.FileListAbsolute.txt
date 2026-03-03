@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\02.02.26\PhoneNum\bin\Debug\net10.0\PhoneNum.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\02.02.26\PhoneNum\bin\Debug\net10.0\PhoneNum.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\02.02.26\PhoneNum\bin\Debug\net10.0\PhoneNum.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\02.02.26\PhoneNum\bin\Debug\net10.0\PhoneNum.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\02.02.26\PhoneNum\bin\Debug\net10.0\PhoneNum.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\02.02.26\PhoneNum\obj\Debug\net10.0\PhoneNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\02.02.26\PhoneNum\obj\Debug\net10.0\PhoneNum.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\02.02.26\PhoneNum\obj\Debug\net10.0\PhoneNum.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\02.02.26\PhoneNum\obj\Debug\net10.0\PhoneNum.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\02.02.26\PhoneNum\obj\Debug\net10.0\PhoneNum.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\02.02.26\PhoneNum\obj\Debug\net10.0\refint\PhoneNum.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\02.02.26\PhoneNum\obj\Debug\net10.0\PhoneNum.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\02.02.26\PhoneNum\obj\Debug\net10.0\PhoneNum.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\02.02.26\PhoneNum\obj\Debug\net10.0\ref\PhoneNum.dll

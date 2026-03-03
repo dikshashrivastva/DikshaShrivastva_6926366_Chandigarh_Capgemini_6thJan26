@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\DecimalToBinary\bin\Debug\net10.0\DecimalToBinary.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\DecimalToBinary\bin\Debug\net10.0\DecimalToBinary.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\DecimalToBinary\bin\Debug\net10.0\DecimalToBinary.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\DecimalToBinary\bin\Debug\net10.0\DecimalToBinary.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\DecimalToBinary\bin\Debug\net10.0\DecimalToBinary.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\DecimalToBinary\obj\Debug\net10.0\DecimalToBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\DecimalToBinary\obj\Debug\net10.0\DecimalToBinary.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\DecimalToBinary\obj\Debug\net10.0\DecimalToBinary.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\DecimalToBinary\obj\Debug\net10.0\DecimalToBinary.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\DecimalToBinary\obj\Debug\net10.0\DecimalToBinary.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\DecimalToBinary\obj\Debug\net10.0\refint\DecimalToBinary.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\DecimalToBinary\obj\Debug\net10.0\DecimalToBinary.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\DecimalToBinary\obj\Debug\net10.0\DecimalToBinary.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\DecimalToBinary\obj\Debug\net10.0\ref\DecimalToBinary.dll

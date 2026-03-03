@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\03.02.26\ElectricityBill\bin\Debug\net10.0\ElectricityBill.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\03.02.26\ElectricityBill\bin\Debug\net10.0\ElectricityBill.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\03.02.26\ElectricityBill\bin\Debug\net10.0\ElectricityBill.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\03.02.26\ElectricityBill\bin\Debug\net10.0\ElectricityBill.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\03.02.26\ElectricityBill\bin\Debug\net10.0\ElectricityBill.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\03.02.26\ElectricityBill\obj\Debug\net10.0\ElectricityBill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\03.02.26\ElectricityBill\obj\Debug\net10.0\ElectricityBill.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\03.02.26\ElectricityBill\obj\Debug\net10.0\ElectricityBill.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\03.02.26\ElectricityBill\obj\Debug\net10.0\ElectricityBill.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\03.02.26\ElectricityBill\obj\Debug\net10.0\ElectricityBill.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\03.02.26\ElectricityBill\obj\Debug\net10.0\refint\ElectricityBill.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\03.02.26\ElectricityBill\obj\Debug\net10.0\ElectricityBill.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\03.02.26\ElectricityBill\obj\Debug\net10.0\ElectricityBill.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\03.02.26\ElectricityBill\obj\Debug\net10.0\ref\ElectricityBill.dll

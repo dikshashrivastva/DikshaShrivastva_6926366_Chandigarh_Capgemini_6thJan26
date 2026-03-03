@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\MaxMinProduct\bin\Debug\net10.0\MaxMinProduct.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\MaxMinProduct\bin\Debug\net10.0\MaxMinProduct.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\MaxMinProduct\bin\Debug\net10.0\MaxMinProduct.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\MaxMinProduct\bin\Debug\net10.0\MaxMinProduct.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\MaxMinProduct\bin\Debug\net10.0\MaxMinProduct.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\MaxMinProduct\obj\Debug\net10.0\MaxMinProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\MaxMinProduct\obj\Debug\net10.0\MaxMinProduct.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\MaxMinProduct\obj\Debug\net10.0\MaxMinProduct.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\MaxMinProduct\obj\Debug\net10.0\MaxMinProduct.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\MaxMinProduct\obj\Debug\net10.0\MaxMinProduct.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\MaxMinProduct\obj\Debug\net10.0\refint\MaxMinProduct.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\MaxMinProduct\obj\Debug\net10.0\MaxMinProduct.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\MaxMinProduct\obj\Debug\net10.0\MaxMinProduct.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\MaxMinProduct\obj\Debug\net10.0\ref\MaxMinProduct.dll

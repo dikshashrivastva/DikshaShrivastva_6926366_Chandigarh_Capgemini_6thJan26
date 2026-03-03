@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\DemoCon\bin\Debug\net10.0\DemoCon.exe
+C:\Users\diksh\source\repos\DemoCon\bin\Debug\net10.0\DemoCon.deps.json
+C:\Users\diksh\source\repos\DemoCon\bin\Debug\net10.0\DemoCon.runtimeconfig.json
+C:\Users\diksh\source\repos\DemoCon\bin\Debug\net10.0\DemoCon.dll
+C:\Users\diksh\source\repos\DemoCon\bin\Debug\net10.0\DemoCon.pdb
+C:\Users\diksh\source\repos\DemoCon\obj\Debug\net10.0\DemoCon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\DemoCon\obj\Debug\net10.0\DemoCon.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\DemoCon\obj\Debug\net10.0\DemoCon.AssemblyInfo.cs
+C:\Users\diksh\source\repos\DemoCon\obj\Debug\net10.0\DemoCon.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\DemoCon\obj\Debug\net10.0\DemoCon.dll
+C:\Users\diksh\source\repos\DemoCon\obj\Debug\net10.0\refint\DemoCon.dll
+C:\Users\diksh\source\repos\DemoCon\obj\Debug\net10.0\DemoCon.pdb
+C:\Users\diksh\source\repos\DemoCon\obj\Debug\net10.0\DemoCon.genruntimeconfig.cache
+C:\Users\diksh\source\repos\DemoCon\obj\Debug\net10.0\ref\DemoCon.dll

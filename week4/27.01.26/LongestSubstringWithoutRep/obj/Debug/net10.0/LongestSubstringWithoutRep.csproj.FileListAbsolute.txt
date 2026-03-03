@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\LongestSubstringWithoutRep\bin\Debug\net10.0\LongestSubstringWithoutRep.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\LongestSubstringWithoutRep\bin\Debug\net10.0\LongestSubstringWithoutRep.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\LongestSubstringWithoutRep\bin\Debug\net10.0\LongestSubstringWithoutRep.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\LongestSubstringWithoutRep\bin\Debug\net10.0\LongestSubstringWithoutRep.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\LongestSubstringWithoutRep\bin\Debug\net10.0\LongestSubstringWithoutRep.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\LongestSubstringWithoutRep\obj\Debug\net10.0\LongestSubstringWithoutRep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\LongestSubstringWithoutRep\obj\Debug\net10.0\LongestSubstringWithoutRep.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\LongestSubstringWithoutRep\obj\Debug\net10.0\LongestSubstringWithoutRep.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\LongestSubstringWithoutRep\obj\Debug\net10.0\LongestSubstringWithoutRep.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\LongestSubstringWithoutRep\obj\Debug\net10.0\LongestSubstringWithoutRep.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\LongestSubstringWithoutRep\obj\Debug\net10.0\refint\LongestSubstringWithoutRep.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\LongestSubstringWithoutRep\obj\Debug\net10.0\LongestSubstringWithoutRep.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\LongestSubstringWithoutRep\obj\Debug\net10.0\LongestSubstringWithoutRep.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\LongestSubstringWithoutRep\obj\Debug\net10.0\ref\LongestSubstringWithoutRep.dll

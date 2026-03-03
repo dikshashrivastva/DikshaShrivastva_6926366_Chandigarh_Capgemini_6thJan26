@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\Palindrome\bin\Debug\net10.0\Palindrome.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\Palindrome\bin\Debug\net10.0\Palindrome.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\Palindrome\bin\Debug\net10.0\Palindrome.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\Palindrome\bin\Debug\net10.0\Palindrome.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\Palindrome\bin\Debug\net10.0\Palindrome.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\Palindrome\obj\Debug\net10.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\Palindrome\obj\Debug\net10.0\Palindrome.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\Palindrome\obj\Debug\net10.0\Palindrome.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\Palindrome\obj\Debug\net10.0\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\Palindrome\obj\Debug\net10.0\Palindrome.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\Palindrome\obj\Debug\net10.0\refint\Palindrome.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\Palindrome\obj\Debug\net10.0\Palindrome.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\Palindrome\obj\Debug\net10.0\Palindrome.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\Palindrome\obj\Debug\net10.0\ref\Palindrome.dll

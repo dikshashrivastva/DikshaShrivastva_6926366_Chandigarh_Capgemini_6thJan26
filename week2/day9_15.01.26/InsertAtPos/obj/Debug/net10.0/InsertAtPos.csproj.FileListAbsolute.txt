@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\InsertAtPos\bin\Debug\net10.0\InsertAtPos.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\InsertAtPos\bin\Debug\net10.0\InsertAtPos.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\InsertAtPos\bin\Debug\net10.0\InsertAtPos.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\InsertAtPos\bin\Debug\net10.0\InsertAtPos.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\InsertAtPos\bin\Debug\net10.0\InsertAtPos.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\InsertAtPos\obj\Debug\net10.0\InsertAtPos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\InsertAtPos\obj\Debug\net10.0\InsertAtPos.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\InsertAtPos\obj\Debug\net10.0\InsertAtPos.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\InsertAtPos\obj\Debug\net10.0\InsertAtPos.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\InsertAtPos\obj\Debug\net10.0\InsertAtPos.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\InsertAtPos\obj\Debug\net10.0\refint\InsertAtPos.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\InsertAtPos\obj\Debug\net10.0\InsertAtPos.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\InsertAtPos\obj\Debug\net10.0\InsertAtPos.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\InsertAtPos\obj\Debug\net10.0\ref\InsertAtPos.dll

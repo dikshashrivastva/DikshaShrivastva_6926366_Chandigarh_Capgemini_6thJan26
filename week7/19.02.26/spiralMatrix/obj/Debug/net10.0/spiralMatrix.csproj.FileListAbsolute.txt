@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\spiralMatrix\bin\Debug\net10.0\spiralMatrix.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\spiralMatrix\bin\Debug\net10.0\spiralMatrix.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\spiralMatrix\bin\Debug\net10.0\spiralMatrix.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\spiralMatrix\bin\Debug\net10.0\spiralMatrix.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\spiralMatrix\bin\Debug\net10.0\spiralMatrix.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\spiralMatrix\obj\Debug\net10.0\spiralMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\spiralMatrix\obj\Debug\net10.0\spiralMatrix.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\spiralMatrix\obj\Debug\net10.0\spiralMatrix.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\spiralMatrix\obj\Debug\net10.0\spiralMatrix.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\spiralMatrix\obj\Debug\net10.0\spiralMatrix.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\spiralMatrix\obj\Debug\net10.0\refint\spiralMatrix.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\spiralMatrix\obj\Debug\net10.0\spiralMatrix.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\spiralMatrix\obj\Debug\net10.0\spiralMatrix.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\spiralMatrix\obj\Debug\net10.0\ref\spiralMatrix.dll

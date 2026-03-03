@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\GrossSalary\bin\Debug\net10.0\GrossSalary.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\GrossSalary\bin\Debug\net10.0\GrossSalary.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\GrossSalary\bin\Debug\net10.0\GrossSalary.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\GrossSalary\bin\Debug\net10.0\GrossSalary.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\GrossSalary\bin\Debug\net10.0\GrossSalary.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\GrossSalary\obj\Debug\net10.0\GrossSalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\GrossSalary\obj\Debug\net10.0\GrossSalary.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\GrossSalary\obj\Debug\net10.0\GrossSalary.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\GrossSalary\obj\Debug\net10.0\GrossSalary.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\GrossSalary\obj\Debug\net10.0\GrossSalary.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\GrossSalary\obj\Debug\net10.0\refint\GrossSalary.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\GrossSalary\obj\Debug\net10.0\GrossSalary.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\GrossSalary\obj\Debug\net10.0\GrossSalary.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\GrossSalary\obj\Debug\net10.0\ref\GrossSalary.dll

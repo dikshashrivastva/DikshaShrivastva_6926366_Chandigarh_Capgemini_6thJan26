@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week7\\19.02.26\\practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4737A3AE-9894-4906-A763-AD0B1FEA1029}|practice.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week7\\19.02.26\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4737A3AE-9894-4906-A763-AD0B1FEA1029}|practice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week7\\19.02.26\\practice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week7\\19.02.26\\practice\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T04:22:00.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\CrossPlatDemo\bin\Release\net10.0\CrossPlatDemo.exe
+C:\Users\diksh\source\repos\CrossPlatDemo\bin\Release\net10.0\CrossPlatDemo.deps.json
+C:\Users\diksh\source\repos\CrossPlatDemo\bin\Release\net10.0\CrossPlatDemo.runtimeconfig.json
+C:\Users\diksh\source\repos\CrossPlatDemo\bin\Release\net10.0\CrossPlatDemo.dll
+C:\Users\diksh\source\repos\CrossPlatDemo\bin\Release\net10.0\CrossPlatDemo.pdb
+C:\Users\diksh\source\repos\CrossPlatDemo\obj\Release\net10.0\CrossPlatDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\CrossPlatDemo\obj\Release\net10.0\CrossPlatDemo.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\CrossPlatDemo\obj\Release\net10.0\CrossPlatDemo.AssemblyInfo.cs
+C:\Users\diksh\source\repos\CrossPlatDemo\obj\Release\net10.0\CrossPlatDemo.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\CrossPlatDemo\obj\Release\net10.0\CrossPlatDemo.dll
+C:\Users\diksh\source\repos\CrossPlatDemo\obj\Release\net10.0\refint\CrossPlatDemo.dll
+C:\Users\diksh\source\repos\CrossPlatDemo\obj\Release\net10.0\CrossPlatDemo.pdb
+C:\Users\diksh\source\repos\CrossPlatDemo\obj\Release\net10.0\CrossPlatDemo.genruntimeconfig.cache
+C:\Users\diksh\source\repos\CrossPlatDemo\obj\Release\net10.0\ref\CrossPlatDemo.dll

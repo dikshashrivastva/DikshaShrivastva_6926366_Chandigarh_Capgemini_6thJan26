@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\practice\bin\Debug\net10.0\practice.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\practice\bin\Debug\net10.0\practice.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\practice\bin\Debug\net10.0\practice.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\practice\bin\Debug\net10.0\practice.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\practice\bin\Debug\net10.0\practice.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\practice\obj\Debug\net10.0\practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\practice\obj\Debug\net10.0\practice.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\practice\obj\Debug\net10.0\practice.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\practice\obj\Debug\net10.0\practice.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\practice\obj\Debug\net10.0\practice.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\practice\obj\Debug\net10.0\refint\practice.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\practice\obj\Debug\net10.0\practice.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\practice\obj\Debug\net10.0\practice.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\practice\obj\Debug\net10.0\ref\practice.dll

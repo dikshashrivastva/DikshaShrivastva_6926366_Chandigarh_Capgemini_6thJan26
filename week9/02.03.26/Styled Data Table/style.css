@@ -1,0 +1,53 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f9;
+    padding: 40px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+/* Table Styling */
+table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;   /* Important */
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Caption */
+caption {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+/* Table Headings */
+th {
+    background-color: #2c3e50;
+    color: white;
+    padding: 12px;
+    text-align: center;
+}
+
+/* Table Cells */
+td {
+    padding: 12px;
+    border: 1px solid #ddd;
+}
+
+/* Alternate Row Colors */
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+/* Hover Effect */
+tr:hover {
+    background-color: #d6eaf8;
+    cursor: pointer;
+}

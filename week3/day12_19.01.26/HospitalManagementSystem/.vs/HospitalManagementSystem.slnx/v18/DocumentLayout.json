@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\HospitalManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{351E6797-1E65-44EA-9B3E-B5E2B549590C}|HospitalManagementSystem.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week3\\day12_19.01.26\\hospitalmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351E6797-1E65-44EA-9B3E-B5E2B549590C}|HospitalManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E6797-1E65-44EA-9B3E-B5E2B549590C}|HospitalManagementSystem.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week3\\day12_19.01.26\\hospitalmanagementsystem\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351E6797-1E65-44EA-9B3E-B5E2B549590C}|HospitalManagementSystem.csproj|solutionrelative:appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E6797-1E65-44EA-9B3E-B5E2B549590C}|HospitalManagementSystem.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week3\\day12_19.01.26\\hospitalmanagementsystem\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351E6797-1E65-44EA-9B3E-B5E2B549590C}|HospitalManagementSystem.csproj|solutionrelative:medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E6797-1E65-44EA-9B3E-B5E2B549590C}|HospitalManagementSystem.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week3\\day12_19.01.26\\hospitalmanagementsystem\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351E6797-1E65-44EA-9B3E-B5E2B549590C}|HospitalManagementSystem.csproj|solutionrelative:nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E6797-1E65-44EA-9B3E-B5E2B549590C}|HospitalManagementSystem.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week3\\day12_19.01.26\\hospitalmanagementsystem\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351E6797-1E65-44EA-9B3E-B5E2B549590C}|HospitalManagementSystem.csproj|solutionrelative:doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E6797-1E65-44EA-9B3E-B5E2B549590C}|HospitalManagementSystem.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week3\\day12_19.01.26\\hospitalmanagementsystem\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351E6797-1E65-44EA-9B3E-B5E2B549590C}|HospitalManagementSystem.csproj|solutionrelative:patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E6797-1E65-44EA-9B3E-B5E2B549590C}|HospitalManagementSystem.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week3\\day12_19.01.26\\hospitalmanagementsystem\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351E6797-1E65-44EA-9B3E-B5E2B549590C}|HospitalManagementSystem.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\HospitalManagementSystem\\Appointment.cs",
+              "RelativeDocumentMoniker": "Appointment.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\HospitalManagementSystem\\Appointment.cs",
+              "RelativeToolTip": "Appointment.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:55:13.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MedicalRecord.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\HospitalManagementSystem\\MedicalRecord.cs",
+              "RelativeDocumentMoniker": "MedicalRecord.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\HospitalManagementSystem\\MedicalRecord.cs",
+              "RelativeToolTip": "MedicalRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:54:30.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\HospitalManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\HospitalManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:46:27.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nurse.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\HospitalManagementSystem\\Nurse.cs",
+              "RelativeDocumentMoniker": "Nurse.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\HospitalManagementSystem\\Nurse.cs",
+              "RelativeToolTip": "Nurse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:53:33.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\HospitalManagementSystem\\Doctor.cs",
+              "RelativeDocumentMoniker": "Doctor.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\HospitalManagementSystem\\Doctor.cs",
+              "RelativeToolTip": "Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:53:07.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\HospitalManagementSystem\\Patient.cs",
+              "RelativeDocumentMoniker": "Patient.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\HospitalManagementSystem\\Patient.cs",
+              "RelativeToolTip": "Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:52:33.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\HospitalManagementSystem\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week3\\day12_19.01.26\\HospitalManagementSystem\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:51:56.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

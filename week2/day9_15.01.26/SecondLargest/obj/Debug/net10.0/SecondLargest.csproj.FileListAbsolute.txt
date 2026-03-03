@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\SecondLargest\bin\Debug\net10.0\SecondLargest.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\SecondLargest\bin\Debug\net10.0\SecondLargest.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\SecondLargest\bin\Debug\net10.0\SecondLargest.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\SecondLargest\bin\Debug\net10.0\SecondLargest.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\SecondLargest\bin\Debug\net10.0\SecondLargest.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\SecondLargest\obj\Debug\net10.0\SecondLargest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\SecondLargest\obj\Debug\net10.0\SecondLargest.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\SecondLargest\obj\Debug\net10.0\SecondLargest.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\SecondLargest\obj\Debug\net10.0\SecondLargest.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\SecondLargest\obj\Debug\net10.0\SecondLargest.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\SecondLargest\obj\Debug\net10.0\refint\SecondLargest.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\SecondLargest\obj\Debug\net10.0\SecondLargest.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\SecondLargest\obj\Debug\net10.0\SecondLargest.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\SecondLargest\obj\Debug\net10.0\ref\SecondLargest.dll

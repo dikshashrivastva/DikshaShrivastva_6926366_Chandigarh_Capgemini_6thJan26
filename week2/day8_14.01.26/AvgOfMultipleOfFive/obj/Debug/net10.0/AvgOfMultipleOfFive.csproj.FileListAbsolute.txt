@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\AvgOfMultipleOfFive\bin\Debug\net10.0\AvgOfMultipleOfFive.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\AvgOfMultipleOfFive\bin\Debug\net10.0\AvgOfMultipleOfFive.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\AvgOfMultipleOfFive\bin\Debug\net10.0\AvgOfMultipleOfFive.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\AvgOfMultipleOfFive\bin\Debug\net10.0\AvgOfMultipleOfFive.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\AvgOfMultipleOfFive\bin\Debug\net10.0\AvgOfMultipleOfFive.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\AvgOfMultipleOfFive\obj\Debug\net10.0\AvgOfMultipleOfFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\AvgOfMultipleOfFive\obj\Debug\net10.0\AvgOfMultipleOfFive.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\AvgOfMultipleOfFive\obj\Debug\net10.0\AvgOfMultipleOfFive.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\AvgOfMultipleOfFive\obj\Debug\net10.0\AvgOfMultipleOfFive.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\AvgOfMultipleOfFive\obj\Debug\net10.0\AvgOfMultipleOfFive.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\AvgOfMultipleOfFive\obj\Debug\net10.0\refint\AvgOfMultipleOfFive.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\AvgOfMultipleOfFive\obj\Debug\net10.0\AvgOfMultipleOfFive.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\AvgOfMultipleOfFive\obj\Debug\net10.0\AvgOfMultipleOfFive.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\AvgOfMultipleOfFive\obj\Debug\net10.0\ref\AvgOfMultipleOfFive.dll

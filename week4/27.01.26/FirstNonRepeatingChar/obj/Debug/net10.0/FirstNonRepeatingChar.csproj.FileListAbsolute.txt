@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\FirstNonRepeatingChar\bin\Debug\net10.0\FirstNonRepeatingChar.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\FirstNonRepeatingChar\bin\Debug\net10.0\FirstNonRepeatingChar.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\FirstNonRepeatingChar\bin\Debug\net10.0\FirstNonRepeatingChar.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\FirstNonRepeatingChar\bin\Debug\net10.0\FirstNonRepeatingChar.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\FirstNonRepeatingChar\bin\Debug\net10.0\FirstNonRepeatingChar.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\FirstNonRepeatingChar\obj\Debug\net10.0\FirstNonRepeatingChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\FirstNonRepeatingChar\obj\Debug\net10.0\FirstNonRepeatingChar.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\FirstNonRepeatingChar\obj\Debug\net10.0\FirstNonRepeatingChar.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\FirstNonRepeatingChar\obj\Debug\net10.0\FirstNonRepeatingChar.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\FirstNonRepeatingChar\obj\Debug\net10.0\FirstNonRepeatingChar.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\FirstNonRepeatingChar\obj\Debug\net10.0\refint\FirstNonRepeatingChar.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\FirstNonRepeatingChar\obj\Debug\net10.0\FirstNonRepeatingChar.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\FirstNonRepeatingChar\obj\Debug\net10.0\FirstNonRepeatingChar.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\FirstNonRepeatingChar\obj\Debug\net10.0\ref\FirstNonRepeatingChar.dll

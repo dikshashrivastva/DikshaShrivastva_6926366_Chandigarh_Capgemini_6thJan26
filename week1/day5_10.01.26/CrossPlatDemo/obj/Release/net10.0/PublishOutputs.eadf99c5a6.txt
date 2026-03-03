@@ -1,0 +1,5 @@
+C:\Users\diksh\source\repos\CrossPlatDemo\bin\Release\net10.0\publish\CrossPlatDemo.exe
+C:\Users\diksh\source\repos\CrossPlatDemo\bin\Release\net10.0\publish\CrossPlatDemo.dll
+C:\Users\diksh\source\repos\CrossPlatDemo\bin\Release\net10.0\publish\CrossPlatDemo.deps.json
+C:\Users\diksh\source\repos\CrossPlatDemo\bin\Release\net10.0\publish\CrossPlatDemo.runtimeconfig.json
+C:\Users\diksh\source\repos\CrossPlatDemo\bin\Release\net10.0\publish\CrossPlatDemo.pdb

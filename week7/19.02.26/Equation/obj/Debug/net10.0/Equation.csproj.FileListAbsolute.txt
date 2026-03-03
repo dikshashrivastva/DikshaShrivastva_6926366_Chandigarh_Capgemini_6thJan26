@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\Equation\bin\Debug\net10.0\Equation.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\Equation\bin\Debug\net10.0\Equation.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\Equation\bin\Debug\net10.0\Equation.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\Equation\bin\Debug\net10.0\Equation.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\Equation\bin\Debug\net10.0\Equation.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\Equation\obj\Debug\net10.0\Equation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\Equation\obj\Debug\net10.0\Equation.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\Equation\obj\Debug\net10.0\Equation.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\Equation\obj\Debug\net10.0\Equation.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\Equation\obj\Debug\net10.0\Equation.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\Equation\obj\Debug\net10.0\refint\Equation.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\Equation\obj\Debug\net10.0\Equation.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\Equation\obj\Debug\net10.0\Equation.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\Equation\obj\Debug\net10.0\ref\Equation.dll

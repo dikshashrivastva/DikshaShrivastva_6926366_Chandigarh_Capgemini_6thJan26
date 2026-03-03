@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* Pastel Pink + Mint Green Gradient */
+    background: linear-gradient(135deg, #ffd6e8, #c8f7e5);
+}
+
+/* Quiz Card */
+.quiz-container {
+    width: 500px;
+    max-width: 95%;
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(15px);
+    padding: 40px;
+    border-radius: 30px;
+    box-shadow: 0 15px 40px rgba(0,0,0,0.1);
+    text-align: center;
+    position: relative;
+}
+
+/* Question */
+#question {
+    margin-bottom: 25px;
+    font-size: 20px;
+    color: #444;
+}
+
+/* Timer Bar */
+.timer-bar {
+    width: 100%;
+    height: 8px;
+    background: #eee;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+#timer-progress {
+    height: 100%;
+    width: 100%;
+    background: #ff8fab;
+    transition: width 1s linear;
+}
+
+/* Answer Buttons */
+.btn-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+}
+
+.btn-grid button {
+    padding: 15px;
+    border-radius: 20px;
+    border: none;
+    font-weight: 600;
+    cursor: pointer;
+    background: #d4f8e8;
+    transition: 0.3s ease;
+}
+
+.btn-grid button:hover {
+    transform: scale(1.05);
+}
+
+/* Correct / Wrong */
+.correct {
+    background: #b8f2e6 !important;
+}
+
+.wrong {
+    background: #ffccd5 !important;
+}
+
+/* Next Button */
+.next-btn {
+    margin-top: 25px;
+    padding: 12px 25px;
+    border-radius: 20px;
+    border: none;
+    background: #ff8fab;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    display: none;
+}
+
+/* Result */
+.result-box {
+    margin-top: 25px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #444;
+}
+
+.hidden {
+    display: none;
+}

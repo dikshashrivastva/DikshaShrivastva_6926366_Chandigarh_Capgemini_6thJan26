@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\AddFirstAndLast\bin\Debug\net10.0\AddFirstAndLast.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\AddFirstAndLast\bin\Debug\net10.0\AddFirstAndLast.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\AddFirstAndLast\bin\Debug\net10.0\AddFirstAndLast.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\AddFirstAndLast\bin\Debug\net10.0\AddFirstAndLast.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\AddFirstAndLast\bin\Debug\net10.0\AddFirstAndLast.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\AddFirstAndLast\obj\Debug\net10.0\AddFirstAndLast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\AddFirstAndLast\obj\Debug\net10.0\AddFirstAndLast.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\AddFirstAndLast\obj\Debug\net10.0\AddFirstAndLast.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\AddFirstAndLast\obj\Debug\net10.0\AddFirstAndLast.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\AddFirstAndLast\obj\Debug\net10.0\AddFirstAndLast.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\AddFirstAndLast\obj\Debug\net10.0\refint\AddFirstAndLast.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\AddFirstAndLast\obj\Debug\net10.0\AddFirstAndLast.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\AddFirstAndLast\obj\Debug\net10.0\AddFirstAndLast.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\AddFirstAndLast\obj\Debug\net10.0\ref\AddFirstAndLast.dll

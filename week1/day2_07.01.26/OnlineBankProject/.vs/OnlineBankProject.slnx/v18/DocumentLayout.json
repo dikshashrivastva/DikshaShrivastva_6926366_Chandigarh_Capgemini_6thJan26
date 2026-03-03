@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week1\\day2_07.01.26\\OnlineBankProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8661B7D6-1402-2E3A-1144-5F158F9821E3}|OnlineBankProject.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week1\\day2_07.01.26\\onlinebankproject\\onlinebank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8661B7D6-1402-2E3A-1144-5F158F9821E3}|OnlineBankProject.csproj|solutionrelative:onlinebank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8661B7D6-1402-2E3A-1144-5F158F9821E3}|OnlineBankProject.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week1\\day2_07.01.26\\onlinebankproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8661B7D6-1402-2E3A-1144-5F158F9821E3}|OnlineBankProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8661B7D6-1402-2E3A-1144-5F158F9821E3}|OnlineBankProject.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week1\\day2_07.01.26\\onlinebankproject\\bankingexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8661B7D6-1402-2E3A-1144-5F158F9821E3}|OnlineBankProject.csproj|solutionrelative:bankingexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8661B7D6-1402-2E3A-1144-5F158F9821E3}|OnlineBankProject.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week1\\day2_07.01.26\\onlinebankproject\\transactionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8661B7D6-1402-2E3A-1144-5F158F9821E3}|OnlineBankProject.csproj|solutionrelative:transactionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8661B7D6-1402-2E3A-1144-5F158F9821E3}|OnlineBankProject.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week1\\day2_07.01.26\\onlinebankproject\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8661B7D6-1402-2E3A-1144-5F158F9821E3}|OnlineBankProject.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8661B7D6-1402-2E3A-1144-5F158F9821E3}|OnlineBankProject.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week1\\day2_07.01.26\\onlinebankproject\\intertransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8661B7D6-1402-2E3A-1144-5F158F9821E3}|OnlineBankProject.csproj|solutionrelative:intertransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8661B7D6-1402-2E3A-1144-5F158F9821E3}|OnlineBankProject.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week1\\day2_07.01.26\\onlinebankproject\\savingacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8661B7D6-1402-2E3A-1144-5F158F9821E3}|OnlineBankProject.csproj|solutionrelative:savingacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8661B7D6-1402-2E3A-1144-5F158F9821E3}|OnlineBankProject.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week1\\day2_07.01.26\\onlinebankproject\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8661B7D6-1402-2E3A-1144-5F158F9821E3}|OnlineBankProject.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8661B7D6-1402-2E3A-1144-5F158F9821E3}|OnlineBankProject.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week1\\day2_07.01.26\\onlinebankproject\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8661B7D6-1402-2E3A-1144-5F158F9821E3}|OnlineBankProject.csproj|solutionrelative:enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionLog.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week1\\day2_07.01.26\\OnlineBankProject\\TransactionLog.cs",
+              "RelativeDocumentMoniker": "TransactionLog.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week1\\day2_07.01.26\\OnlineBankProject\\TransactionLog.cs",
+              "RelativeToolTip": "TransactionLog.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T08:42:18.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankingException.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week1\\day2_07.01.26\\OnlineBankProject\\BankingException.cs",
+              "RelativeDocumentMoniker": "BankingException.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week1\\day2_07.01.26\\OnlineBankProject\\BankingException.cs",
+              "RelativeToolTip": "BankingException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T08:41:21.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week1\\day2_07.01.26\\OnlineBankProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week1\\day2_07.01.26\\OnlineBankProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T06:56:47.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InterTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week1\\day2_07.01.26\\OnlineBankProject\\InterTransaction.cs",
+              "RelativeDocumentMoniker": "InterTransaction.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week1\\day2_07.01.26\\OnlineBankProject\\InterTransaction.cs",
+              "RelativeToolTip": "InterTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T06:46:36.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SavingAcc.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week1\\day2_07.01.26\\OnlineBankProject\\SavingAcc.cs",
+              "RelativeDocumentMoniker": "SavingAcc.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week1\\day2_07.01.26\\OnlineBankProject\\SavingAcc.cs",
+              "RelativeToolTip": "SavingAcc.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T06:41:49.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week1\\day2_07.01.26\\OnlineBankProject\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week1\\day2_07.01.26\\OnlineBankProject\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T06:37:39.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OnlineBank.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week1\\day2_07.01.26\\OnlineBankProject\\OnlineBank.cs",
+              "RelativeDocumentMoniker": "OnlineBank.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week1\\day2_07.01.26\\OnlineBankProject\\OnlineBank.cs",
+              "RelativeToolTip": "OnlineBank.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAASwCYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T06:57:16.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week1\\day2_07.01.26\\OnlineBankProject\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week1\\day2_07.01.26\\OnlineBankProject\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T08:39:19.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week1\\day2_07.01.26\\OnlineBankProject\\Enums.cs",
+              "RelativeDocumentMoniker": "Enums.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week1\\day2_07.01.26\\OnlineBankProject\\Enums.cs",
+              "RelativeToolTip": "Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T08:37:54.797Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

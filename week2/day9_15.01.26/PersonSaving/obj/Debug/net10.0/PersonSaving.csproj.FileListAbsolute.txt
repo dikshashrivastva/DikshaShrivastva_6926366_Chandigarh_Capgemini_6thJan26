@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\PersonSaving\bin\Debug\net10.0\PersonSaving.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\PersonSaving\bin\Debug\net10.0\PersonSaving.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\PersonSaving\bin\Debug\net10.0\PersonSaving.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\PersonSaving\bin\Debug\net10.0\PersonSaving.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\PersonSaving\bin\Debug\net10.0\PersonSaving.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\PersonSaving\obj\Debug\net10.0\PersonSaving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\PersonSaving\obj\Debug\net10.0\PersonSaving.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\PersonSaving\obj\Debug\net10.0\PersonSaving.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\PersonSaving\obj\Debug\net10.0\PersonSaving.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\PersonSaving\obj\Debug\net10.0\PersonSaving.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\PersonSaving\obj\Debug\net10.0\refint\PersonSaving.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\PersonSaving\obj\Debug\net10.0\PersonSaving.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\PersonSaving\obj\Debug\net10.0\PersonSaving.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day9_15.01.26\PersonSaving\obj\Debug\net10.0\ref\PersonSaving.dll

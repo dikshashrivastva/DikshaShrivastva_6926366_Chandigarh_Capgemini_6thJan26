@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ReverseAString\bin\Debug\net10.0\ReverseAString.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ReverseAString\bin\Debug\net10.0\ReverseAString.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ReverseAString\bin\Debug\net10.0\ReverseAString.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ReverseAString\bin\Debug\net10.0\ReverseAString.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ReverseAString\bin\Debug\net10.0\ReverseAString.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ReverseAString\obj\Debug\net10.0\ReverseAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ReverseAString\obj\Debug\net10.0\ReverseAString.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ReverseAString\obj\Debug\net10.0\ReverseAString.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ReverseAString\obj\Debug\net10.0\ReverseAString.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ReverseAString\obj\Debug\net10.0\ReverseAString.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ReverseAString\obj\Debug\net10.0\refint\ReverseAString.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ReverseAString\obj\Debug\net10.0\ReverseAString.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ReverseAString\obj\Debug\net10.0\ReverseAString.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ReverseAString\obj\Debug\net10.0\ref\ReverseAString.dll

@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\FindFactor\bin\Debug\net10.0\FindFactor.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\FindFactor\bin\Debug\net10.0\FindFactor.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\FindFactor\bin\Debug\net10.0\FindFactor.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\FindFactor\bin\Debug\net10.0\FindFactor.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\FindFactor\bin\Debug\net10.0\FindFactor.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\FindFactor\obj\Debug\net10.0\FindFactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\FindFactor\obj\Debug\net10.0\FindFactor.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\FindFactor\obj\Debug\net10.0\FindFactor.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\FindFactor\obj\Debug\net10.0\FindFactor.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\FindFactor\obj\Debug\net10.0\FindFactor.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\FindFactor\obj\Debug\net10.0\refint\FindFactor.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\FindFactor\obj\Debug\net10.0\FindFactor.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\FindFactor\obj\Debug\net10.0\FindFactor.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\FindFactor\obj\Debug\net10.0\ref\FindFactor.dll

@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\MaxMarks\bin\Debug\net10.0\MaxMarks.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\MaxMarks\bin\Debug\net10.0\MaxMarks.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\MaxMarks\bin\Debug\net10.0\MaxMarks.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\MaxMarks\bin\Debug\net10.0\MaxMarks.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\MaxMarks\bin\Debug\net10.0\MaxMarks.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\MaxMarks\obj\Debug\net10.0\MaxMarks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\MaxMarks\obj\Debug\net10.0\MaxMarks.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\MaxMarks\obj\Debug\net10.0\MaxMarks.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\MaxMarks\obj\Debug\net10.0\MaxMarks.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\MaxMarks\obj\Debug\net10.0\MaxMarks.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\MaxMarks\obj\Debug\net10.0\refint\MaxMarks.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\MaxMarks\obj\Debug\net10.0\MaxMarks.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\MaxMarks\obj\Debug\net10.0\MaxMarks.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week7\19.02.26\MaxMarks\obj\Debug\net10.0\ref\MaxMarks.dll

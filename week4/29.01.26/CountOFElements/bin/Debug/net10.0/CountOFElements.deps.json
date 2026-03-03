@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CountOFElements/1.0.0": {
+        "runtime": {
+          "CountOFElements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CountOFElements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

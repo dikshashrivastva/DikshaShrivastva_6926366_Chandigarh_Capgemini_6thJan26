@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\EccomerceProduct\bin\Debug\net10.0\EccomerceProduct.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\EccomerceProduct\bin\Debug\net10.0\EccomerceProduct.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\EccomerceProduct\bin\Debug\net10.0\EccomerceProduct.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\EccomerceProduct\bin\Debug\net10.0\EccomerceProduct.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\EccomerceProduct\bin\Debug\net10.0\EccomerceProduct.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\EccomerceProduct\obj\Debug\net10.0\EccomerceProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\EccomerceProduct\obj\Debug\net10.0\EccomerceProduct.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\EccomerceProduct\obj\Debug\net10.0\EccomerceProduct.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\EccomerceProduct\obj\Debug\net10.0\EccomerceProduct.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\EccomerceProduct\obj\Debug\net10.0\EccomerceProduct.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\EccomerceProduct\obj\Debug\net10.0\refint\EccomerceProduct.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\EccomerceProduct\obj\Debug\net10.0\EccomerceProduct.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\EccomerceProduct\obj\Debug\net10.0\EccomerceProduct.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\EccomerceProduct\obj\Debug\net10.0\ref\EccomerceProduct.dll

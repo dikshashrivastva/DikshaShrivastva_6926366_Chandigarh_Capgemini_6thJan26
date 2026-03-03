@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\UniversityEnrollmentSystem\bin\Debug\net10.0\UniversityEnrollmentSystem.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\UniversityEnrollmentSystem\bin\Debug\net10.0\UniversityEnrollmentSystem.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\UniversityEnrollmentSystem\bin\Debug\net10.0\UniversityEnrollmentSystem.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\UniversityEnrollmentSystem\bin\Debug\net10.0\UniversityEnrollmentSystem.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\UniversityEnrollmentSystem\bin\Debug\net10.0\UniversityEnrollmentSystem.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\UniversityEnrollmentSystem\obj\Debug\net10.0\UniversityEnrollmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\UniversityEnrollmentSystem\obj\Debug\net10.0\UniversityEnrollmentSystem.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\UniversityEnrollmentSystem\obj\Debug\net10.0\UniversityEnrollmentSystem.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\UniversityEnrollmentSystem\obj\Debug\net10.0\UniversityEnrollmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\UniversityEnrollmentSystem\obj\Debug\net10.0\UniversityEnrollmentSystem.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\UniversityEnrollmentSystem\obj\Debug\net10.0\refint\UniversityEnrollmentSystem.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\UniversityEnrollmentSystem\obj\Debug\net10.0\UniversityEnrollmentSystem.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\UniversityEnrollmentSystem\obj\Debug\net10.0\UniversityEnrollmentSystem.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day12_19.01.26\UniversityEnrollmentSystem\obj\Debug\net10.0\ref\UniversityEnrollmentSystem.dll

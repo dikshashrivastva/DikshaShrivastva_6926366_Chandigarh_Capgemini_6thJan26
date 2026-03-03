@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\AnagaramCheck\bin\Debug\net10.0\AnagaramCheck.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\AnagaramCheck\bin\Debug\net10.0\AnagaramCheck.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\AnagaramCheck\bin\Debug\net10.0\AnagaramCheck.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\AnagaramCheck\bin\Debug\net10.0\AnagaramCheck.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\AnagaramCheck\bin\Debug\net10.0\AnagaramCheck.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\AnagaramCheck\obj\Debug\net10.0\AnagaramCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\AnagaramCheck\obj\Debug\net10.0\AnagaramCheck.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\AnagaramCheck\obj\Debug\net10.0\AnagaramCheck.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\AnagaramCheck\obj\Debug\net10.0\AnagaramCheck.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\AnagaramCheck\obj\Debug\net10.0\AnagaramCheck.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\AnagaramCheck\obj\Debug\net10.0\refint\AnagaramCheck.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\AnagaramCheck\obj\Debug\net10.0\AnagaramCheck.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\AnagaramCheck\obj\Debug\net10.0\AnagaramCheck.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\AnagaramCheck\obj\Debug\net10.0\ref\AnagaramCheck.dll

@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\04.02.26\CheckPattern\bin\Debug\net10.0\CheckPattern.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\04.02.26\CheckPattern\bin\Debug\net10.0\CheckPattern.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\04.02.26\CheckPattern\bin\Debug\net10.0\CheckPattern.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\04.02.26\CheckPattern\bin\Debug\net10.0\CheckPattern.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\04.02.26\CheckPattern\bin\Debug\net10.0\CheckPattern.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\04.02.26\CheckPattern\obj\Debug\net10.0\CheckPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\04.02.26\CheckPattern\obj\Debug\net10.0\CheckPattern.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\04.02.26\CheckPattern\obj\Debug\net10.0\CheckPattern.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\04.02.26\CheckPattern\obj\Debug\net10.0\CheckPattern.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\04.02.26\CheckPattern\obj\Debug\net10.0\CheckPattern.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\04.02.26\CheckPattern\obj\Debug\net10.0\refint\CheckPattern.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\04.02.26\CheckPattern\obj\Debug\net10.0\CheckPattern.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\04.02.26\CheckPattern\obj\Debug\net10.0\CheckPattern.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week5\04.02.26\CheckPattern\obj\Debug\net10.0\ref\CheckPattern.dll

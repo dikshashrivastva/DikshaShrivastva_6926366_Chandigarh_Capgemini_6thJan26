@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\LeapYear\bin\Debug\net10.0\LeapYear.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\LeapYear\bin\Debug\net10.0\LeapYear.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\LeapYear\bin\Debug\net10.0\LeapYear.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\LeapYear\bin\Debug\net10.0\LeapYear.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\LeapYear\bin\Debug\net10.0\LeapYear.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\LeapYear\obj\Debug\net10.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\LeapYear\obj\Debug\net10.0\LeapYear.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\LeapYear\obj\Debug\net10.0\LeapYear.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\LeapYear\obj\Debug\net10.0\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\LeapYear\obj\Debug\net10.0\LeapYear.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\LeapYear\obj\Debug\net10.0\refint\LeapYear.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\LeapYear\obj\Debug\net10.0\LeapYear.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\LeapYear\obj\Debug\net10.0\LeapYear.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\LeapYear\obj\Debug\net10.0\ref\LeapYear.dll

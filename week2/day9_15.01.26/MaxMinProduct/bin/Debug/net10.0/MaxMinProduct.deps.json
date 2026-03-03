@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MaxMinProduct/1.0.0": {
+        "runtime": {
+          "MaxMinProduct.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaxMinProduct/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week2\\day6_12.01.26\\HandsOnDay6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62FDA695-BB0F-D922-1EBF-B01C5AB5208D}|HandsOnDay6.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week2\\day6_12.01.26\\handsonday6\\handsonday6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{62FDA695-BB0F-D922-1EBF-B01C5AB5208D}|HandsOnDay6.csproj|solutionrelative:handsonday6.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FDA695-BB0F-D922-1EBF-B01C5AB5208D}|HandsOnDay6.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week2\\day6_12.01.26\\handsonday6\\countnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FDA695-BB0F-D922-1EBF-B01C5AB5208D}|HandsOnDay6.csproj|solutionrelative:countnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FDA695-BB0F-D922-1EBF-B01C5AB5208D}|HandsOnDay6.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week2\\day6_12.01.26\\handsonday6\\sumcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FDA695-BB0F-D922-1EBF-B01C5AB5208D}|HandsOnDay6.csproj|solutionrelative:sumcube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FDA695-BB0F-D922-1EBF-B01C5AB5208D}|HandsOnDay6.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week2\\day6_12.01.26\\handsonday6\\multipleoffive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FDA695-BB0F-D922-1EBF-B01C5AB5208D}|HandsOnDay6.csproj|solutionrelative:multipleoffive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FDA695-BB0F-D922-1EBF-B01C5AB5208D}|HandsOnDay6.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week2\\day6_12.01.26\\handsonday6\\removenegetive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FDA695-BB0F-D922-1EBF-B01C5AB5208D}|HandsOnDay6.csproj|solutionrelative:removenegetive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FDA695-BB0F-D922-1EBF-B01C5AB5208D}|HandsOnDay6.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week2\\day6_12.01.26\\handsonday6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FDA695-BB0F-D922-1EBF-B01C5AB5208D}|HandsOnDay6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HandsOnDay6",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week2\\day6_12.01.26\\HandsOnDay6\\HandsOnDay6.csproj",
+              "RelativeDocumentMoniker": "HandsOnDay6.csproj",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week2\\day6_12.01.26\\HandsOnDay6\\HandsOnDay6.csproj",
+              "RelativeToolTip": "HandsOnDay6.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-14T10:20:01.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountNotes.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week2\\day6_12.01.26\\HandsOnDay6\\CountNotes.cs",
+              "RelativeDocumentMoniker": "CountNotes.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week2\\day6_12.01.26\\HandsOnDay6\\CountNotes.cs",
+              "RelativeToolTip": "CountNotes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T01:11:51.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultipleOfFive.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week2\\day6_12.01.26\\HandsOnDay6\\MultipleOfFive.cs",
+              "RelativeDocumentMoniker": "MultipleOfFive.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week2\\day6_12.01.26\\HandsOnDay6\\MultipleOfFive.cs",
+              "RelativeToolTip": "MultipleOfFive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T01:09:45.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SumCube.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week2\\day6_12.01.26\\HandsOnDay6\\SumCube.cs",
+              "RelativeDocumentMoniker": "SumCube.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week2\\day6_12.01.26\\HandsOnDay6\\SumCube.cs",
+              "RelativeToolTip": "SumCube.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwCAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T01:06:42.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RemoveNegetive.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week2\\day6_12.01.26\\HandsOnDay6\\RemoveNegetive.cs",
+              "RelativeDocumentMoniker": "RemoveNegetive.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week2\\day6_12.01.26\\HandsOnDay6\\RemoveNegetive.cs",
+              "RelativeToolTip": "RemoveNegetive.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T01:03:16.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week2\\day6_12.01.26\\HandsOnDay6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week2\\day6_12.01.26\\HandsOnDay6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T00:58:18.993Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

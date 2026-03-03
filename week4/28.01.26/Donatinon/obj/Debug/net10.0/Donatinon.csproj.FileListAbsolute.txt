@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\Donatinon\bin\Debug\net10.0\Donatinon.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\Donatinon\bin\Debug\net10.0\Donatinon.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\Donatinon\bin\Debug\net10.0\Donatinon.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\Donatinon\bin\Debug\net10.0\Donatinon.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\Donatinon\bin\Debug\net10.0\Donatinon.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\Donatinon\obj\Debug\net10.0\Donatinon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\Donatinon\obj\Debug\net10.0\Donatinon.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\Donatinon\obj\Debug\net10.0\Donatinon.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\Donatinon\obj\Debug\net10.0\Donatinon.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\Donatinon\obj\Debug\net10.0\Donatinon.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\Donatinon\obj\Debug\net10.0\refint\Donatinon.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\Donatinon\obj\Debug\net10.0\Donatinon.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\Donatinon\obj\Debug\net10.0\Donatinon.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\Donatinon\obj\Debug\net10.0\ref\Donatinon.dll

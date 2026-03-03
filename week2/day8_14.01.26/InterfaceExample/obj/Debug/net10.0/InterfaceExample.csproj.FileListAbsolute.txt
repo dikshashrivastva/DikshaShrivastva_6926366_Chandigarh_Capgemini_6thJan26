@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\InterfaceExample\bin\Debug\net10.0\InterfaceExample.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\InterfaceExample\bin\Debug\net10.0\InterfaceExample.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\InterfaceExample\bin\Debug\net10.0\InterfaceExample.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\InterfaceExample\bin\Debug\net10.0\InterfaceExample.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\InterfaceExample\bin\Debug\net10.0\InterfaceExample.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\InterfaceExample\obj\Debug\net10.0\InterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\InterfaceExample\obj\Debug\net10.0\InterfaceExample.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\InterfaceExample\obj\Debug\net10.0\InterfaceExample.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\InterfaceExample\obj\Debug\net10.0\InterfaceExample.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\InterfaceExample\obj\Debug\net10.0\InterfaceExample.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\InterfaceExample\obj\Debug\net10.0\refint\InterfaceExample.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\InterfaceExample\obj\Debug\net10.0\InterfaceExample.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\InterfaceExample\obj\Debug\net10.0\InterfaceExample.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day8_14.01.26\InterfaceExample\obj\Debug\net10.0\ref\InterfaceExample.dll

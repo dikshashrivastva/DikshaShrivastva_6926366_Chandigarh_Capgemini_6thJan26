@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\MaxDiffinArr\bin\Debug\net10.0\MaxDiffinArr.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\MaxDiffinArr\bin\Debug\net10.0\MaxDiffinArr.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\MaxDiffinArr\bin\Debug\net10.0\MaxDiffinArr.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\MaxDiffinArr\bin\Debug\net10.0\MaxDiffinArr.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\MaxDiffinArr\bin\Debug\net10.0\MaxDiffinArr.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\MaxDiffinArr\obj\Debug\net10.0\MaxDiffinArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\MaxDiffinArr\obj\Debug\net10.0\MaxDiffinArr.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\MaxDiffinArr\obj\Debug\net10.0\MaxDiffinArr.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\MaxDiffinArr\obj\Debug\net10.0\MaxDiffinArr.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\MaxDiffinArr\obj\Debug\net10.0\MaxDiffinArr.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\MaxDiffinArr\obj\Debug\net10.0\refint\MaxDiffinArr.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\MaxDiffinArr\obj\Debug\net10.0\MaxDiffinArr.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\MaxDiffinArr\obj\Debug\net10.0\MaxDiffinArr.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\28.01.26\MaxDiffinArr\obj\Debug\net10.0\ref\MaxDiffinArr.dll

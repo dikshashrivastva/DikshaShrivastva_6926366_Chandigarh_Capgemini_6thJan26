@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\SumOfFactors\bin\Debug\net10.0\SumOfFactors.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\SumOfFactors\bin\Debug\net10.0\SumOfFactors.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\SumOfFactors\bin\Debug\net10.0\SumOfFactors.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\SumOfFactors\bin\Debug\net10.0\SumOfFactors.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\SumOfFactors\bin\Debug\net10.0\SumOfFactors.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\SumOfFactors\obj\Debug\net10.0\SumOfFactors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\SumOfFactors\obj\Debug\net10.0\SumOfFactors.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\SumOfFactors\obj\Debug\net10.0\SumOfFactors.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\SumOfFactors\obj\Debug\net10.0\SumOfFactors.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\SumOfFactors\obj\Debug\net10.0\SumOfFactors.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\SumOfFactors\obj\Debug\net10.0\refint\SumOfFactors.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\SumOfFactors\obj\Debug\net10.0\SumOfFactors.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\SumOfFactors\obj\Debug\net10.0\SumOfFactors.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week2\day10_16.01.26\SumOfFactors\obj\Debug\net10.0\ref\SumOfFactors.dll

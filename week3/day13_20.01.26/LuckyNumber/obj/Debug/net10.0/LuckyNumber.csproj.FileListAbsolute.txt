@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day13_20.01.26\LuckyNumber\obj\Debug\net10.0\LuckyNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day13_20.01.26\LuckyNumber\obj\Debug\net10.0\LuckyNumber.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day13_20.01.26\LuckyNumber\obj\Debug\net10.0\LuckyNumber.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day13_20.01.26\LuckyNumber\obj\Debug\net10.0\LuckyNumber.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day13_20.01.26\LuckyNumber\bin\Debug\net10.0\LuckyNumber.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day13_20.01.26\LuckyNumber\bin\Debug\net10.0\LuckyNumber.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day13_20.01.26\LuckyNumber\bin\Debug\net10.0\LuckyNumber.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day13_20.01.26\LuckyNumber\bin\Debug\net10.0\LuckyNumber.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day13_20.01.26\LuckyNumber\bin\Debug\net10.0\LuckyNumber.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day13_20.01.26\LuckyNumber\obj\Debug\net10.0\LuckyNumber.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day13_20.01.26\LuckyNumber\obj\Debug\net10.0\refint\LuckyNumber.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day13_20.01.26\LuckyNumber\obj\Debug\net10.0\LuckyNumber.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day13_20.01.26\LuckyNumber\obj\Debug\net10.0\LuckyNumber.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week3\day13_20.01.26\LuckyNumber\obj\Debug\net10.0\ref\LuckyNumber.dll

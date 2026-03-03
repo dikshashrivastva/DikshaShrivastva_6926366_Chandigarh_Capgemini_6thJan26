@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ValidParantheses\bin\Debug\net10.0\ValidParantheses.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ValidParantheses\bin\Debug\net10.0\ValidParantheses.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ValidParantheses\bin\Debug\net10.0\ValidParantheses.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ValidParantheses\bin\Debug\net10.0\ValidParantheses.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ValidParantheses\bin\Debug\net10.0\ValidParantheses.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ValidParantheses\obj\Debug\net10.0\ValidParantheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ValidParantheses\obj\Debug\net10.0\ValidParantheses.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ValidParantheses\obj\Debug\net10.0\ValidParantheses.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ValidParantheses\obj\Debug\net10.0\ValidParantheses.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ValidParantheses\obj\Debug\net10.0\ValidParantheses.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ValidParantheses\obj\Debug\net10.0\refint\ValidParantheses.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ValidParantheses\obj\Debug\net10.0\ValidParantheses.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ValidParantheses\obj\Debug\net10.0\ValidParantheses.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\27.01.26\ValidParantheses\obj\Debug\net10.0\ref\ValidParantheses.dll

@@ -1,0 +1,14 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\RomanToDecimal\bin\Debug\net10.0\RomanToDecimal.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\RomanToDecimal\bin\Debug\net10.0\RomanToDecimal.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\RomanToDecimal\bin\Debug\net10.0\RomanToDecimal.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\RomanToDecimal\bin\Debug\net10.0\RomanToDecimal.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\RomanToDecimal\bin\Debug\net10.0\RomanToDecimal.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\RomanToDecimal\obj\Debug\net10.0\RomanToDecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\RomanToDecimal\obj\Debug\net10.0\RomanToDecimal.AssemblyInfoInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\RomanToDecimal\obj\Debug\net10.0\RomanToDecimal.AssemblyInfo.cs
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\RomanToDecimal\obj\Debug\net10.0\RomanToDecimal.csproj.CoreCompileInputs.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\RomanToDecimal\obj\Debug\net10.0\RomanToDecimal.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\RomanToDecimal\obj\Debug\net10.0\refint\RomanToDecimal.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\RomanToDecimal\obj\Debug\net10.0\RomanToDecimal.pdb
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\RomanToDecimal\obj\Debug\net10.0\RomanToDecimal.genruntimeconfig.cache
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week4\29.01.26\RomanToDecimal\obj\Debug\net10.0\ref\RomanToDecimal.dll
