@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<title>MoodSky Weather</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body id="body">
+
+<h1 class="title">☁ Weather Today</h1>
+
+<div class="searchBox">
+<input type="text" id="cityInput" placeholder="Enter city name">
+<button onclick="checkWeather()">Check Weather</button>
+</div>
+
+<div id="weatherCard" class="weatherCard">
+
+<div class="icon" id="weatherIcon">🌤</div>
+
+<h2 id="cityName">Your City</h2>
+
+<div class="temp" id="temperature">--°C</div>
+
+<div class="condition" id="condition">Waiting for weather...</div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
