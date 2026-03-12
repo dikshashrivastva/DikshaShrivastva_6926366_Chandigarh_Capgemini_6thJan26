@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week10\\09.03.26\\WebAppMVCdemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA603F2-35AE-41DB-9579-12C7664E9230}|WebAppMVCdemo\\WebAppMVCdemo.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week10\\09.03.26\\webappmvcdemo\\webappmvcdemo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0DA603F2-35AE-41DB-9579-12C7664E9230}|WebAppMVCdemo\\WebAppMVCdemo.csproj|solutionrelative:webappmvcdemo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week10\\09.03.26\\WebAppMVCdemo\\WebAppMVCdemo\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebAppMVCdemo\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week10\\09.03.26\\WebAppMVCdemo\\WebAppMVCdemo\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebAppMVCdemo\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-09T06:21:17.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

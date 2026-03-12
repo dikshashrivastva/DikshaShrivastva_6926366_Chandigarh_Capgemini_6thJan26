@@ -1,0 +1,14 @@
+﻿@model List<LibraryManagementDI.Models.Book>
+
+<h2>Library Books</h2>
+
+<ul>
+    @foreach (var book in Model)
+    {
+        <li>
+            <a href="/Books/Details/@book.Id">
+                Book ID: @book.Id
+            </a>
+        </li>
+    }
+</ul>
