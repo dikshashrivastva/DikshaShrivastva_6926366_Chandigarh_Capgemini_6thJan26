@@ -1,0 +1,39 @@
+@page
+@model EventBooking.Web.Pages.MyBookingsModel
+@{
+    ViewData["Title"] = "My Bookings";
+}
+
+<div class="page-hero text-center">
+    <h1 class="fw-bold">My Bookings 📋</h1>
+    <p class="lead">Manage all your event bookings here</p>
+</div>
+
+<div id="loadingSpinner" class="text-center py-5">
+    <div class="spinner-border" style="color:#81c784" role="status"></div>
+    <p class="mt-2 text-muted">Loading your bookings...</p>
+</div>
+
+<div id="noBookings" class="text-center py-5" style="display:none">
+    <h4 class="text-muted">You have no bookings yet.</h4>
+    <a href="/" class="btn btn-primary mt-3">Browse Events</a>
+</div>
+
+<div id="bookingsContainer" style="display:none">
+    <div class="table-responsive">
+        <table class="table booking-table align-middle">
+            <thead>
+                <tr>
+                    <th>Event</th>
+                    <th>Location</th>
+                    <th>Date</th>
+                    <th>Seats</th>
+                    <th>Amount</th>
+                    <th>Status</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody id="bookingsTableBody"></tbody>
+        </table>
+    </div>
+</div>

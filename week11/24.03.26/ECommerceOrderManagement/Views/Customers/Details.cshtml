@@ -1,0 +1,38 @@
+﻿@model ECommerceOrderManagement.Models.Customer
+@{
+    ViewData["Title"] = "Customer Details";
+}
+
+<h2><i class="bi bi-person-lines-fill"></i> @Model.FullName's Orders</h2>
+<p><strong>Email:</strong> @Model.Email | <strong>Phone:</strong> @Model.Phone</p>
+
+@foreach (var order in Model.Orders)
+{
+    <div class="card mb-3 shadow-sm">
+        <div class="card-header d-flex justify-content-between">
+            <span>Order #@order.OrderId — @order.OrderDate.ToShortDateString()</span>
+            <span class="badge bg-primary">@order.Status</span>
+        </div>
+        <div class="card-body">
+            <table class="table table-sm">
+                <thead><tr><th>Product</th><th>Qty</th><th>Unit Price</th></tr></thead>
+                <tbody>
+                    @foreach (var item in order.OrderItems)
+                    {
+                        <tr>
+                            <td>@item.Product.Name</td>
+                            <td>@item.Quantity</td>
+                            <td>@item.UnitPrice.ToString("C")</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <p class="mb-0"><strong>Total:</strong> @order.TotalAmount.ToString("C")</p>
+            @if (order.ShippingDetail != null)
+            {
+                <p class="mb-0"><strong>Shipping Status:</strong> @order.ShippingDetail.ShippingStatus</p>
+            }
+        </div>
+    </div>
+}
+<a asp-action="Index" class="btn btn-secondary">Back</a>

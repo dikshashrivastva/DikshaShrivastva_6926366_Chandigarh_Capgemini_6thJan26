@@ -1,0 +1,45 @@
+﻿@model IEnumerable<ECommerceOrderManagement.Models.Product>
+@{
+    ViewData["Title"] = "Products";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h2><i class="bi bi-box-seam"></i> Products</h2>
+    <a asp-action="Create" class="btn btn-success"><i class="bi bi-plus-circle"></i> Add Product</a>
+</div>
+
+<form method="get" class="row g-2 mb-4">
+    <div class="col-auto">
+        <label class="form-label fw-bold">Filter by Category:</label>
+    </div>
+    <div class="col-auto">
+        <select name="categoryId" class="form-select" asp-items="ViewBag.Categories">
+            <option value="">-- All --</option>
+        </select>
+    </div>
+    <div class="col-auto">
+        <button type="submit" class="btn btn-primary">Filter</button>
+        <a asp-action="Index" class="btn btn-outline-secondary">Clear</a>
+    </div>
+</form>
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    @foreach (var p in Model)
+    {
+        <div class="col">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">@p.Name</h5>
+                    <p class="text-muted small">@p.Category?.Name</p>
+                    <p class="card-text">@p.Description</p>
+                    <p class="fw-bold text-success">@p.Price.ToString("C")</p>
+                    <p class="small">Stock: @p.Stock</p>
+                </div>
+                <div class="card-footer d-flex gap-2">
+                    <a asp-action="Edit" asp-route-id="@p.ProductId" class="btn btn-sm btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@p.ProductId" class="btn btn-sm btn-danger">Delete</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

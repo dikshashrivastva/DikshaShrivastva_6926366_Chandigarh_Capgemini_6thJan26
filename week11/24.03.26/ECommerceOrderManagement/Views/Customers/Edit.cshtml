@@ -1,0 +1,31 @@
+﻿@model ECommerceOrderManagement.Models.Customer
+@{
+    ViewData["Title"] = "Edit Customer";
+}
+
+<h2><i class="bi bi-pencil"></i> Edit Customer</h2>
+<div class="card shadow-sm p-4" style="max-width:600px">
+    <form asp-action="Edit" method="post">
+        @Html.AntiForgeryToken()
+        <input type="hidden" asp-for="CustomerId" />
+        <div class="mb-3">
+            <label asp-for="FullName" class="form-label"></label>
+            <input asp-for="FullName" class="form-control" />
+            <span asp-validation-for="FullName" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Email" class="form-label"></label>
+            <input asp-for="Email" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="Phone" class="form-label"></label>
+            <input asp-for="Phone" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="Address" class="form-label"></label>
+            <textarea asp-for="Address" class="form-control" rows="2"></textarea>
+        </div>
+        <button type="submit" class="btn btn-warning">Update</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>

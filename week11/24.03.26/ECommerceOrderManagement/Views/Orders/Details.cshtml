@@ -1,0 +1,56 @@
+﻿@model ECommerceOrderManagement.ViewModels.OrderDetailsViewModel
+@{
+    ViewData["Title"] = "Order Details";
+}
+
+<h2><i class="bi bi-receipt"></i> Order #@Model.Order.OrderId</h2>
+<div class="row">
+    <div class="col-md-6">
+        <div class="card mb-3 shadow-sm">
+            <div class="card-header bg-dark text-white">Customer Info</div>
+            <div class="card-body">
+                <p><strong>Name:</strong> @Model.Customer.FullName</p>
+                <p><strong>Email:</strong> @Model.Customer.Email</p>
+                <p><strong>Phone:</strong> @Model.Customer.Phone</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="card mb-3 shadow-sm">
+            <div class="card-header bg-dark text-white">Shipping Details</div>
+            <div class="card-body">
+                @if (Model.ShippingDetail != null)
+                {
+                    <p><strong>Address:</strong> @Model.ShippingDetail.ShippingAddress</p>
+                    <p><strong>Status:</strong> @Model.ShippingDetail.ShippingStatus</p>
+                    <p><strong>Tracking #:</strong> @Model.ShippingDetail.TrackingNumber</p>
+                    <p><strong>Shipped:</strong> @Model.ShippingDetail.ShippedDate?.ToShortDateString()</p>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="card shadow-sm">
+    <div class="card-header bg-primary text-white">Order Items</div>
+    <div class="card-body">
+        <table class="table table-hover">
+            <thead><tr><th>Product</th><th>Unit Price</th><th>Qty</th><th>Subtotal</th></tr></thead>
+            <tbody>
+                @foreach (var item in Model.OrderItems)
+                {
+                    <tr>
+                        <td>@item.Product.Name</td>
+                        <td>@item.UnitPrice.ToString("C")</td>
+                        <td>@item.Quantity</td>
+                        <td>@((item.UnitPrice * item.Quantity).ToString("C"))</td>
+                    </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr><td colspan="3" class="text-end fw-bold">Total:</td><td class="fw-bold">@Model.Order.TotalAmount.ToString("C")</td></tr>
+            </tfoot>
+        </table>
+    </div>
+</div>
+<a asp-action="Index" class="btn btn-secondary mt-3">Back</a>

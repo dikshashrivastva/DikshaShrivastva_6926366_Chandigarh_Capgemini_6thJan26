@@ -1,0 +1,40 @@
+﻿@model IEnumerable<EmployeeProjectManagementSystem.Models.Project>
+
+<h2>Project Dashboard</h2>
+
+<table border="1">
+
+	<tr>
+		<th>Project</th>
+		<th>Employees</th>
+		<th>Departments</th>
+	</tr>
+
+	@foreach (var project in Model)
+	{
+		<tr>
+
+			<td>@project.Title</td>
+
+			<td>
+
+				@foreach (var ep in project.EmployeeProjects)
+				{
+					<p>@ep.Employee.Name</p>
+				}
+
+			</td>
+
+			<td>
+
+				@foreach (var ep in project.EmployeeProjects)
+				{
+					<p>@ep.Employee.Department.Name</p>
+				}
+
+			</td>
+
+		</tr>
+	}
+
+</table>

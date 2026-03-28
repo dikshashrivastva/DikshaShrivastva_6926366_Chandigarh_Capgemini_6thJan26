@@ -1,0 +1,36 @@
+﻿@page
+@model EventBooking.Web.Pages.IndexModel
+@{
+    ViewData["Title"] = "Events";
+}
+
+<div class="page-hero text-center">
+    <h1 class="fw-bold display-5">🎟️ Discover Events</h1>
+    <p class="lead mt-2">Find and book the best events near you</p>
+    <input type="text" id="searchInput" class="form-control mt-3 mx-auto"
+        placeholder="Search events..." style="max-width:400px;" onkeyup="filterEvents()" />
+</div>
+
+<div class="row mb-3">
+    <div class="col">
+        <select id="categoryFilter" class="form-select w-auto" onchange="filterEvents()">
+            <option value="">All Categories</option>
+            <option value="Music">Music</option>
+            <option value="Tech">Tech</option>
+            <option value="Sports">Sports</option>
+            <option value="Food">Food</option>
+            <option value="Art">Art</option>
+        </select>
+    </div>
+</div>
+
+<div id="loadingSpinner" class="text-center py-5">
+    <div class="spinner-border" style="color:#81c784" role="status"></div>
+    <p class="mt-2 text-muted">Loading events...</p>
+</div>
+
+<div id="noEvents" class="text-center py-5" style="display:none">
+    <h4 class="text-muted">No events found.</h4>
+</div>
+
+<div class="row g-4" id="eventsContainer"></div>

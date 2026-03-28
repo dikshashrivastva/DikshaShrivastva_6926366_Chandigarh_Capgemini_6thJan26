@@ -1,0 +1,15 @@
+﻿@model ECommerceOrderManagement.Models.Category
+@{
+    ViewData["Title"] = "Delete Category";
+}
+
+<h2 class="text-danger">Delete Category</h2>
+<div class="card shadow-sm p-4" style="max-width:400px">
+    <p>Delete <strong>@Model.Name</strong>?</p>
+    <form asp-action="Delete" method="post">
+        @Html.AntiForgeryToken()
+        <input type="hidden" asp-for="CategoryId" />
+        <button type="submit" class="btn btn-danger">Yes, Delete</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>

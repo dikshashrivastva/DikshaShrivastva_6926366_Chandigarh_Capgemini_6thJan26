@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+	<link rel="stylesheet" href="~/css/site.css" />
+
+	<title>Employee Project System</title>
+
+</head>
+
+<body>
+
+	<div class="navbar">
+
+		<a asp-controller="Dashboard" asp-action="Index">Dashboard</a>
+		<a asp-controller="Employees" asp-action="Index">Employees</a>
+		<a asp-controller="Projects" asp-action="Index">Projects</a>
+		<a asp-controller="Departments" asp-action="Index">Departments</a>
+
+	</div>
+
+	<div class="container">
+
+		@RenderBody()
+
+	</div>
+
+</body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "maM8QjFqd4M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week12\\25.03.26\\solution\\ProductApi\\ProductApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diksh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\8.0.0\\microsoft.extensions.apidescription.server.8.0.0.nupkg.sha512",
+    "C:\\Users\\diksh\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
+    "C:\\Users\\diksh\\.nuget\\packages\\swashbuckle.aspnetcore\\10.1.6\\swashbuckle.aspnetcore.10.1.6.nupkg.sha512",
+    "C:\\Users\\diksh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.6\\swashbuckle.aspnetcore.swagger.10.1.6.nupkg.sha512",
+    "C:\\Users\\diksh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.6\\swashbuckle.aspnetcore.swaggergen.10.1.6.nupkg.sha512",
+    "C:\\Users\\diksh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.6\\swashbuckle.aspnetcore.swaggerui.10.1.6.nupkg.sha512",
+    "C:\\Users\\diksh\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

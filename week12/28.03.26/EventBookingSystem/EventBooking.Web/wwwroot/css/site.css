@@ -1,0 +1,158 @@
+:root {
+    --primary: #81c784;
+    --primary-dark: #4caf50;
+    --accent: #f48fb1;
+    --accent-dark: #e91e8c;
+    --bg: #f1f8f1;
+    --card-bg: #ffffff;
+    --text-dark: #2e2e2e;
+    --text-muted: #757575;
+    --hero-bg: linear-gradient(135deg, #a5d6a7, #f48fb1);
+}
+
+body {
+    background-color: var(--bg);
+    font-family: 'Segoe UI', sans-serif;
+    color: var(--text-dark);
+}
+
+.navbar {
+    background: linear-gradient(90deg, #4caf50, #e91e63) !important;
+}
+
+.navbar-brand, .nav-link {
+    color: white !important;
+}
+
+.event-card {
+    border: none;
+    border-radius: 14px;
+    box-shadow: 0 2px 12px rgba(129, 199, 132, 0.25);
+    transition: transform 0.2s, box-shadow 0.2s;
+    height: 100%;
+    background-color: var(--card-bg);
+}
+
+.event-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 24px rgba(244, 143, 177, 0.3);
+}
+
+.event-card img {
+    border-radius: 14px 14px 0 0;
+    height: 180px;
+    object-fit: cover;
+}
+
+.badge-category {
+    font-size: 0.75rem;
+    padding: 4px 12px;
+    border-radius: 20px;
+    background-color: #fce4ec;
+    color: #c2185b;
+    font-weight: 600;
+}
+
+.btn-book {
+    background: linear-gradient(90deg, #81c784, #f48fb1);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 20px;
+    font-weight: 600;
+    transition: opacity 0.2s;
+    width: 100%;
+}
+
+.btn-book:hover {
+    opacity: 0.88;
+    color: white;
+}
+
+.page-hero {
+    background: var(--hero-bg);
+    color: white;
+    padding: 50px 30px;
+    border-radius: 18px;
+    margin-bottom: 36px;
+    text-shadow: 0 1px 4px rgba(0,0,0,0.15);
+}
+
+.auth-card {
+    max-width: 460px;
+    margin: 60px auto;
+    border: none;
+    border-radius: 18px;
+    box-shadow: 0 4px 28px rgba(244, 143, 177, 0.2);
+    padding: 42px;
+    background-color: white;
+}
+
+.auth-card h2 {
+    color: #4caf50;
+    font-weight: 700;
+}
+
+.form-control:focus {
+    border-color: #81c784;
+    box-shadow: 0 0 0 0.2rem rgba(129, 199, 132, 0.3);
+}
+
+.btn-primary {
+    background: linear-gradient(90deg, #81c784, #f48fb1);
+    border: none;
+    font-weight: 600;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.btn-primary:hover {
+    opacity: 0.88;
+    background: linear-gradient(90deg, #81c784, #f48fb1);
+    border: none;
+}
+
+.booking-table thead {
+    background: linear-gradient(90deg, #a5d6a7, #f48fb1);
+    color: white;
+}
+
+.booking-table {
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 2px 12px rgba(129, 199, 132, 0.2);
+}
+
+.status-confirmed {
+    color: #2e7d32;
+    font-weight: 700;
+}
+
+.status-cancelled {
+    color: #c62828;
+    font-weight: 700;
+}
+
+.seats-badge {
+    font-size: 0.82rem;
+    background-color: #e8f5e9;
+    color: #2e7d32;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-weight: 600;
+}
+
+.seats-badge.low {
+    background-color: #fff3e0;
+    color: #e65100;
+}
+
+.seats-badge.full {
+    background-color: #ffebee;
+    color: #c62828;
+}
+
+footer {
+    background: linear-gradient(90deg, #4caf50, #e91e63) !important;
+    color: white;
+}

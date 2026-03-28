@@ -1,0 +1,28 @@
+﻿@model EmployeeProjectManagementSystem.Models.Project
+
+<h2>Edit Project</h2>
+
+<form method="post">
+
+	<input type="hidden" name="ProjectId" value="@Model.ProjectId" />
+
+	<label>Project Title</label>
+	<input type="text" name="Title" value="@Model.Title" />
+
+	<br /><br />
+
+	<label>Assign Employees</label>
+
+	@foreach (var e in ViewBag.Employees)
+	{
+		<br />
+		<input type="checkbox" name="employeeIds" value="@e.EmployeeId" />
+ 
+		@e.Name
+	}
+
+	<br /><br />
+
+	<button type="submit">Update</button>
+
+</form>

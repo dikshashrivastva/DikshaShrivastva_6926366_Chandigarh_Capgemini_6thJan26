@@ -1,0 +1,14 @@
+2026-03-27 14:33:06,191 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Started: /api/Product
+2026-03-27 14:33:06,246 INFO  PerformanceApi.Controllers.ProductController - API Started
+2026-03-27 14:33:11,253 INFO  PerformanceApi.Controllers.ProductController - API Completed in 5.0081083 sec
+2026-03-27 14:33:11,258 WARN  PerformanceApi.Controllers.ProductController - Slow API detected: 5.0081083 sec
+2026-03-27 14:33:11,275 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Completed in 5.108062 sec
+2026-03-27 14:33:11,275 WARN  PerformanceApi.Middleware.PerformanceMiddleware - Slow API detected: 5.108062 sec
+2026-03-27 15:50:13,415 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Started: /
+2026-03-27 15:50:13,428 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Completed in 0.020834 sec
+2026-03-27 15:50:22,822 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Started: /api/Product
+2026-03-27 15:50:22,848 INFO  PerformanceApi.Controllers.ProductController - API Started
+2026-03-27 15:50:27,863 INFO  PerformanceApi.Controllers.ProductController - API Completed in 5.0154745 sec
+2026-03-27 15:50:27,863 WARN  PerformanceApi.Controllers.ProductController - Slow API detected: 5.0154745 sec
+2026-03-27 15:50:27,868 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Completed in 5.0458269 sec
+2026-03-27 15:50:27,868 WARN  PerformanceApi.Middleware.PerformanceMiddleware - Slow API detected: 5.0458269 sec

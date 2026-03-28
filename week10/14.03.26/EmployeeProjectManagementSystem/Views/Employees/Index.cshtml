@@ -1,0 +1,27 @@
+﻿<table border="1">
+
+	<tr>
+		<th>Name</th>
+		<th>Department</th>
+		<th>Actions</th>
+	</tr>
+
+	@foreach (var e in Model)
+	{
+		<tr>
+
+			<td>@e.Name</td>
+			<td>@e.Department.Name</td>
+
+			<td>
+
+				<a href="/Employees/Details/@e.EmployeeId">Details</a> |
+				<a href="/Employees/Edit/@e.EmployeeId">Edit</a> |
+				<a href="/Employees/Delete/@e.EmployeeId">Delete</a>
+
+			</td>
+
+		</tr>
+	}
+
+</table>

@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="text-center py-5">
+    <h1 class="display-4 fw-bold"><i class="bi bi-shop"></i> E-Commerce Order Management</h1>
+    <p class="lead text-muted">Manage your products, customers, and orders all in one place.</p>
+    <div class="d-flex justify-content-center gap-3 mt-4">
+        <a asp-controller="Products" asp-action="Index" class="btn btn-primary btn-lg"><i class="bi bi-box-seam"></i> Browse Products</a>
+        <a asp-controller="Orders" asp-action="Create" class="btn btn-success btn-lg"><i class="bi bi-cart-plus"></i> Place Order</a>
+        <a asp-controller="Admin" asp-action="Dashboard" class="btn btn-dark btn-lg"><i class="bi bi-speedometer2"></i> Admin Panel</a>
+    </div>
+</div>
+fff

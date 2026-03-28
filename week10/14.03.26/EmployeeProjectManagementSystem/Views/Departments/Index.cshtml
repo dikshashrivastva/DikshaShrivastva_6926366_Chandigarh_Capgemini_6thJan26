@@ -1,0 +1,18 @@
+﻿@model IEnumerable<EmployeeProjectManagementSystem.Models.Department>
+
+<h2>Departments</h2>
+
+<table border="1">
+
+	<tr>
+		<th>Department</th>
+	</tr>
+
+	@foreach (var d in Model)
+	{
+		<tr>
+			<td>@d.Name</td>
+		</tr>
+	}
+
+</table>

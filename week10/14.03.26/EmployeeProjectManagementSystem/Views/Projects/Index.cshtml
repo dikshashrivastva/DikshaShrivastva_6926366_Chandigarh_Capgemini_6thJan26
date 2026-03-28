@@ -1,0 +1,38 @@
+﻿@model IEnumerable<EmployeeProjectManagementSystem.Models.Project>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Projects</h2>
+
+<a href="/Projects/Create" class="btn">Create New Project</a>
+
+<br />
+<br />
+
+<table border="1">
+
+    <tr>
+        <th>Project Title</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var p in Model)
+    {
+        <tr>
+
+            <td>@p.Title</td>
+
+            <td>
+
+                <a href="/Projects/Details/@p.ProjectId">Details</a> |
+                <a href="/Projects/Edit/@p.ProjectId">Edit</a> |
+                <a href="/Projects/Delete/@p.ProjectId">Delete</a>
+
+            </td>
+
+        </tr>
+    }
+
+</table>

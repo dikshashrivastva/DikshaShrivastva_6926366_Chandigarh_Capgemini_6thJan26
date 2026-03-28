@@ -1,0 +1,15 @@
+﻿@model ECommerceOrderManagement.Models.Product
+@{
+    ViewData["Title"] = "Delete Product";
+}
+
+<h2 class="text-danger">Delete Product</h2>
+<div class="card shadow-sm p-4" style="max-width:450px">
+    <p>Delete <strong>@Model.Name</strong> (₹@Model.Price)?</p>
+    <form asp-action="Delete" method="post">
+        @Html.AntiForgeryToken()
+        <input type="hidden" asp-for="ProductId" />
+        <button type="submit" class="btn btn-danger">Yes, Delete</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>
