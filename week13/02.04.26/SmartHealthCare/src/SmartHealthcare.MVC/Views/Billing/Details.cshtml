@@ -1,0 +1,66 @@
+@model SmartHealthcare.Models.DTOs.BillDTO
+@{
+    ViewData["Title"] = "Bill Details";
+    var role = ViewBag.Role as string;
+}
+
+<div class="container mt-4">
+    <div class="card shadow" style="max-width:600px; margin:auto;">
+        <div class="card-header bg-dark text-white">
+            <h4>Bill #@Model.Id</h4>
+        </div>
+        <div class="card-body">
+            @if (TempData["Success"] != null)
+            {
+                <div class="alert alert-success">@TempData["Success"]</div>
+            }
+
+            <dl class="row">
+                <dt class="col-sm-5">Patient</dt>
+                <dd class="col-sm-7">@Model.PatientName</dd>
+
+                <dt class="col-sm-5">Doctor</dt>
+                <dd class="col-sm-7">@Model.DoctorName</dd>
+
+                <dt class="col-sm-5">Appointment Date</dt>
+                <dd class="col-sm-7">@Model.AppointmentDate.ToString("dd MMM yyyy, hh:mm tt")</dd>
+
+                <dt class="col-sm-5">Consultation Fee</dt>
+                <dd class="col-sm-7">₹@Model.ConsultationFee.ToString("0.00")</dd>
+
+                <dt class="col-sm-5">Medicine Charges</dt>
+                <dd class="col-sm-7">₹@Model.MedicineCharges.ToString("0.00")</dd>
+
+                <dt class="col-sm-5">Total Amount</dt>
+                <dd class="col-sm-7"><strong>₹@Model.TotalAmount.ToString("0.00")</strong></dd>
+
+                <dt class="col-sm-5">Payment Status</dt>
+                <dd class="col-sm-7">
+                    <span class="badge @(Model.PaymentStatus == "Paid" ? "bg-success" : "bg-warning text-dark")">
+                        @Model.PaymentStatus
+                    </span>
+                </dd>
+
+                <dt class="col-sm-5">Created At</dt>
+                <dd class="col-sm-7">@Model.CreatedAt.ToString("dd MMM yyyy")</dd>
+            </dl>
+
+            <div class="d-flex gap-2 mt-3">
+                @if (role == "Admin" && Model.PaymentStatus == "Unpaid")
+                {
+                    <form asp-action="MarkAsPaid" asp-route-id="@Model.Id" method="post">
+                        <button type="submit" class="btn btn-success">Mark as Paid</button>
+                    </form>
+                }
+                @if (role == "Admin")
+                {
+                    <form asp-action="Delete" asp-route-id="@Model.Id" method="post"
+                          onsubmit="return confirm('Delete this bill?')">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                }
+                <a asp-action="Index" class="btn btn-secondary">Back to Bills</a>
+            </div>
+        </div>
+    </div>
+</div>

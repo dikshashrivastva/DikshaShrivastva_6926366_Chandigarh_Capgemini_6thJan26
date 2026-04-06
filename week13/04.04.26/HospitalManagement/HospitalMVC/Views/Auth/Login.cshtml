@@ -1,0 +1,147 @@
+@model HospitalMVC.Models.LoginViewModel
+@{ ViewData["Title"] = "Login"; Layout = null; }
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Login - MediCare</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+    <style>
+        body {
+            background: linear-gradient(135deg, #FFD700 0%, #FFA500 50%, #FF8C00 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Segoe UI', sans-serif;
+        }
+        .login-card {
+            background: #fff;
+            border-radius: 24px;
+            padding: 50px 45px;
+            width: 100%;
+            max-width: 450px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.2);
+        }
+        .login-logo {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .login-logo .logo-icon {
+            width: 80px;
+            height: 80px;
+            background: linear-gradient(135deg, #FFD700, #FFA500);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 15px;
+            font-size: 2.2rem;
+            color: #5D4037;
+            box-shadow: 0 8px 25px rgba(255,165,0,0.4);
+        }
+        .login-logo h2 { font-weight: 800; color: #2C1810; margin: 0; }
+        .login-logo p { color: #888; margin: 5px 0 0; font-size: 0.9rem; }
+        .form-control {
+            border: 2px solid #FFE566;
+            border-radius: 12px;
+            padding: 12px 15px 12px 45px;
+            font-size: 0.95rem;
+            transition: all 0.3s;
+        }
+        .form-control:focus { border-color: #FFA500; box-shadow: 0 0 0 0.2rem rgba(255,165,0,0.25); }
+        .input-wrapper { position: relative; }
+        .input-icon {
+            position: absolute;
+            left: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #FFA500;
+            font-size: 1rem;
+        }
+        .btn-login {
+            background: linear-gradient(135deg, #FFD700, #FFA500);
+            border: none;
+            border-radius: 12px;
+            padding: 14px;
+            font-size: 1.05rem;
+            font-weight: 700;
+            color: #2C1810;
+            width: 100%;
+            transition: all 0.3s;
+        }
+        .btn-login:hover {
+            background: linear-gradient(135deg, #FFA500, #FF8C00);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(255,165,0,0.4);
+        }
+        .divider { text-align: center; color: #aaa; margin: 20px 0; position: relative; }
+        .divider::before, .divider::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            width: 42%;
+            height: 1px;
+            background: #eee;
+        }
+        .divider::before { left: 0; }
+        .divider::after { right: 0; }
+        .register-link { text-align: center; margin-top: 15px; }
+        .register-link a { color: #FFA500; font-weight: 600; text-decoration: none; }
+        .form-label { font-weight: 600; color: #5D4037; margin-bottom: 8px; }
+        .alert { border-radius: 12px; }
+    </style>
+</head>
+<body>
+    <div class="login-card">
+        <div class="login-logo">
+            <div class="logo-icon"><i class="fas fa-hospital-alt"></i></div>
+            <h2>MediCare</h2>
+            <p>Hospital Management System</p>
+        </div>
+
+        @if (TempData["Success"] != null)
+        {
+            <div class="alert alert-success"><i class="fas fa-check-circle me-2"></i>@TempData["Success"]</div>
+        }
+
+        <form asp-action="Login" method="post">
+            <div asp-validation-summary="ModelOnly" class="alert alert-danger" style="display:@(ViewData.ModelState.IsValid ? "none" : "block")"></div>
+
+            <div class="mb-4">
+                <label asp-for="Email" class="form-label">Email Address</label>
+                <div class="input-wrapper">
+                    <i class="fas fa-envelope input-icon"></i>
+                    <input asp-for="Email" class="form-control" placeholder="doctor@hospital.com" />
+                </div>
+                <span asp-validation-for="Email" class="text-danger small"></span>
+            </div>
+
+            <div class="mb-4">
+                <label asp-for="Password" class="form-label">Password</label>
+                <div class="input-wrapper">
+                    <i class="fas fa-lock input-icon"></i>
+                    <input asp-for="Password" class="form-control" type="password" placeholder="••••••••" />
+                </div>
+                <span asp-validation-for="Password" class="text-danger small"></span>
+            </div>
+
+            <button type="submit" class="btn-login">
+                <i class="fas fa-sign-in-alt me-2"></i>Sign In
+            </button>
+        </form>
+
+        <div class="divider">or</div>
+        <div class="register-link">
+            Don't have an account? <a asp-action="Register">Register here</a>
+        </div>
+        <div class="mt-3 text-center" style="font-size:0.82rem;color:#aaa;">
+            Admin: admin@hospital.com / Admin@123
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

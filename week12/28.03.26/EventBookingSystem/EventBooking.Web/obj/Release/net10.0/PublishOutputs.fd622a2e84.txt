@@ -1,0 +1,7 @@
+C:\iis-publish\web\EventBooking.Web.exe
+C:\iis-publish\web\appsettings.Development.json
+C:\iis-publish\web\appsettings.json
+C:\iis-publish\web\EventBooking.Web.dll
+C:\iis-publish\web\EventBooking.Web.deps.json
+C:\iis-publish\web\EventBooking.Web.runtimeconfig.json
+C:\iis-publish\web\EventBooking.Web.pdb

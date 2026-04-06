@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "TransactionApp.Frontend"
+		},
+		{
+			"path": "TransactionApp.API"
+		}
+	],
+	"settings": {}
+}

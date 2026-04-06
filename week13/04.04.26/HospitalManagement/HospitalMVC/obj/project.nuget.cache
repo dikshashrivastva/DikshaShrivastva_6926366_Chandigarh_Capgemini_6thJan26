@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y+wbpfo7UnE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week13\\04.04.26\\HospitalManagement\\HospitalMVC\\HospitalMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diksh\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.3.9\\microsoft.aspnetcore.authentication.cookies.2.3.9.nupkg.sha512",
+    "C:\\Users\\diksh\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.AspNetCore.Authentication.Cookies will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week13\\04.04.26\\HospitalManagement\\HospitalMVC\\HospitalMVC.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week13\\04.04.26\\HospitalManagement\\HospitalMVC\\HospitalMVC.csproj",
+      "libraryId": "Microsoft.AspNetCore.Authentication.Cookies",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

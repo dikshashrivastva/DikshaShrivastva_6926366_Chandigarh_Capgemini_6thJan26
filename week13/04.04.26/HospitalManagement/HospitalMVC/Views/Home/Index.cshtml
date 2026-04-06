@@ -1,0 +1,94 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="page-header">
+    <h2><i class="fas fa-tachometer-alt me-3"></i>Dashboard</h2>
+    <p>Welcome back, <strong>@User.Identity?.Name</strong>! Here's your hospital overview.</p>
+</div>
+
+<!-- STAT CARDS -->
+<div class="row g-4 mb-4">
+    <div class="col-md-3">
+        <div class="stat-card stat-card-1 shadow">
+            <div class="stat-number">@ViewBag.Departments</div>
+            <div class="stat-label"><i class="fas fa-building me-1"></i> Departments</div>
+            <i class="fas fa-building stat-icon"></i>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="stat-card stat-card-2 shadow">
+            <div class="stat-number">@ViewBag.Doctors</div>
+            <div class="stat-label"><i class="fas fa-user-md me-1"></i> Doctors</div>
+            <i class="fas fa-user-md stat-icon"></i>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="stat-card stat-card-3 shadow">
+            <div class="stat-number">@ViewBag.Appointments</div>
+            <div class="stat-label"><i class="fas fa-calendar-check me-1"></i> Appointments</div>
+            <i class="fas fa-calendar-check stat-icon"></i>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="stat-card stat-card-4 shadow">
+            <div class="stat-number">@ViewBag.Bills</div>
+            <div class="stat-label"><i class="fas fa-file-invoice-dollar me-1"></i> Bills</div>
+            <i class="fas fa-file-invoice-dollar stat-icon"></i>
+        </div>
+    </div>
+</div>
+
+<!-- QUICK ACTIONS -->
+<div class="row g-4">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <i class="fas fa-bolt me-2"></i>Quick Actions
+            </div>
+            <div class="card-body p-4">
+                <div class="d-grid gap-3">
+                    <a asp-controller="Appointments" asp-action="Book" class="btn btn-primary btn-lg">
+                        <i class="fas fa-calendar-plus me-2"></i>Book New Appointment
+                    </a>
+                    <a asp-controller="Doctors" asp-action="Index" class="btn btn-outline-primary btn-lg">
+                        <i class="fas fa-user-md me-2"></i>View All Doctors
+                    </a>
+                    <a asp-controller="Departments" asp-action="Index" class="btn btn-outline-primary btn-lg">
+                        <i class="fas fa-building me-2"></i>View Departments
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <i class="fas fa-info-circle me-2"></i>System Info
+            </div>
+            <div class="card-body p-4">
+                <ul class="list-unstyled">
+                    <li class="mb-3">
+                        <i class="fas fa-user-circle me-2" style="color:#FFA500"></i>
+                        <strong>Logged in as:</strong> @User.Identity?.Name
+                    </li>
+                    <li class="mb-3">
+                        <i class="fas fa-id-badge me-2" style="color:#FFA500"></i>
+                        <strong>Role:</strong>
+                        <span class="badge ms-1" style="background:#FFD700;color:#2C1810;">
+                            @User.FindFirst(System.Security.Claims.ClaimTypes.Role)?.Value
+                        </span>
+                    </li>
+                    <li class="mb-3">
+                        <i class="fas fa-clock me-2" style="color:#FFA500"></i>
+                        <strong>Date:</strong> @DateTime.Now.ToString("dddd, MMMM dd, yyyy")
+                    </li>
+                    <li>
+                        <i class="fas fa-hospital me-2" style="color:#FFA500"></i>
+                        <strong>System:</strong> MediCare Hospital v1.0
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

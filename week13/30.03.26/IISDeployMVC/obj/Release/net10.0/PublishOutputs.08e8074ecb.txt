@@ -1,0 +1,7 @@
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week13\30.03.26\IISDeployMVC\obj\Release\net10.0\PubTmp\Out\IISDeployMVC.exe
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week13\30.03.26\IISDeployMVC\obj\Release\net10.0\PubTmp\Out\appsettings.Development.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week13\30.03.26\IISDeployMVC\obj\Release\net10.0\PubTmp\Out\appsettings.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week13\30.03.26\IISDeployMVC\obj\Release\net10.0\PubTmp\Out\IISDeployMVC.dll
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week13\30.03.26\IISDeployMVC\obj\Release\net10.0\PubTmp\Out\IISDeployMVC.deps.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week13\30.03.26\IISDeployMVC\obj\Release\net10.0\PubTmp\Out\IISDeployMVC.runtimeconfig.json
+C:\Users\diksh\source\repos\Capgemini_CU_Sec3_NetWebAzure_DikshaS\week13\30.03.26\IISDeployMVC\obj\Release\net10.0\PubTmp\Out\IISDeployMVC.pdb

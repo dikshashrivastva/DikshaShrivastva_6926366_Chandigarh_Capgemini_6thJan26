@@ -1,0 +1,78 @@
+@model HospitalMVC.Models.BookAppointmentViewModel
+@{ ViewData["Title"] = "Book Appointment"; }
+
+<div class="page-header">
+    <h2><i class="fas fa-calendar-plus me-3"></i>Book an Appointment</h2>
+    <p>Select a department, doctor, and preferred date.</p>
+</div>
+
+<div class="row justify-content-center">
+    <div class="col-md-7">
+        <div class="card">
+            <div class="card-header"><i class="fas fa-calendar-check me-2"></i>Appointment Details</div>
+            <div class="card-body p-4">
+                <form asp-action="Book" method="post">
+                    <input type="hidden" asp-for="PatientId" />
+
+                    <div class="mb-4">
+                        <label class="form-label">Select Department</label>
+                        <select id="deptSelect" class="form-select" onchange="filterDoctors()">
+                            <option value="">-- All Departments --</option>
+                            @foreach (var d in Model.Departments)
+                            {
+                                <option value="@d.DepartmentId">@d.DepartmentName</option>
+                            }
+                        </select>
+                    </div>
+
+                    <div class="mb-4">
+                        <label asp-for="DoctorId" class="form-label">Select Doctor</label>
+                        <select asp-for="DoctorId" id="doctorSelect" class="form-select">
+                            <option value="">-- Select Doctor --</option>
+                            @foreach (var doc in Model.Doctors)
+                            {
+                                <option value="@doc.DoctorId"
+                                    data-dept="@doc.DepartmentId">
+                                    Dr. @doc.FullName (@doc.DepartmentName - @doc.Specialization)
+                                </option>
+                            }
+                        </select>
+                        <span asp-validation-for="DoctorId" class="text-danger small"></span>
+                    </div>
+
+                    <div class="mb-4">
+                        <label asp-for="AppointmentDate" class="form-label">Preferred Date & Time</label>
+                        <input asp-for="AppointmentDate" class="form-control" type="datetime-local"
+                               min="@DateTime.Now.ToString("yyyy-MM-ddTHH:mm")" />
+                        <span asp-validation-for="AppointmentDate" class="text-danger small"></span>
+                    </div>
+
+                    <div class="d-flex gap-3">
+                        <button type="submit" class="btn btn-primary flex-fill btn-lg">
+                            <i class="fas fa-calendar-check me-2"></i>Confirm Booking
+                        </button>
+                        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+<script>
+function filterDoctors() {
+    var deptId = document.getElementById('deptSelect').value;
+    var options = document.getElementById('doctorSelect').options;
+    for (var i = 1; i < options.length; i++) {
+        var opt = options[i];
+        if (!deptId || opt.dataset.dept === deptId) {
+            opt.style.display = '';
+        } else {
+            opt.style.display = 'none';
+        }
+    }
+    document.getElementById('doctorSelect').value = '';
+}
+</script>
+}

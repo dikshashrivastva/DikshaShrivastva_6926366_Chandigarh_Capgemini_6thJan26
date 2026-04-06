@@ -1,0 +1,59 @@
+@model IEnumerable<SmartHealthcare.Models.DTOs.BillDTO>
+@{
+    ViewData["Title"] = "Bills";
+    var role = ViewBag.Role as string;
+}
+
+<div class="container mt-4">
+    <h2>Bills</h2>
+
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success">@TempData["Success"]</div>
+    }
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info">No bills found.</div>
+    }
+    else
+    {
+        <table class="table table-bordered table-hover">
+            <thead class="table-dark">
+                <tr>
+                    <th>Bill #</th>
+                    <th>Patient</th>
+                    <th>Doctor</th>
+                    <th>Appointment Date</th>
+                    <th>Consultation Fee</th>
+                    <th>Medicine Charges</th>
+                    <th>Total</th>
+                    <th>Status</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var bill in Model)
+                {
+                    <tr>
+                        <td>@bill.Id</td>
+                        <td>@bill.PatientName</td>
+                        <td>@bill.DoctorName</td>
+                        <td>@bill.AppointmentDate.ToString("dd MMM yyyy")</td>
+                        <td>₹@bill.ConsultationFee.ToString("0.00")</td>
+                        <td>₹@bill.MedicineCharges.ToString("0.00")</td>
+                        <td><strong>₹@bill.TotalAmount.ToString("0.00")</strong></td>
+                        <td>
+                            <span class="badge @(bill.PaymentStatus == "Paid" ? "bg-success" : "bg-warning text-dark")">
+                                @bill.PaymentStatus
+                            </span>
+                        </td>
+                        <td>
+                            <a asp-action="Details" asp-route-id="@bill.Id" class="btn btn-sm btn-info">View</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>

@@ -1,0 +1,123 @@
+@model List<HospitalMVC.Models.DoctorViewModel>
+@{ ViewData["Title"] = "Doctors"; }
+
+<div class="page-header d-flex justify-content-between align-items-center">
+    <div>
+        <h2><i class="fas fa-user-md me-3"></i>Our Doctors</h2>
+        <p>Browse and manage hospital doctors.</p>
+    </div>
+    @if (User.IsInRole("Admin"))
+    {
+        <a asp-action="Create" class="btn btn-primary btn-lg">
+            <i class="fas fa-plus me-2"></i>Add Doctor
+        </a>
+    }
+</div>
+
+<!-- Filter by Department -->
+<div class="search-box">
+    <form method="get" class="row g-3 align-items-end">
+        <div class="col-md-4">
+            <label class="form-label fw-bold">Filter by Department</label>
+            <select name="departmentId" class="form-select" onchange="this.form.submit()">
+                <option value="">-- All Departments --</option>
+                @foreach (var dept in (List<HospitalMVC.Models.DepartmentViewModel>)ViewBag.Departments)
+                {
+                    <option value="@dept.DepartmentId"
+                        selected="@(ViewBag.SelectedDept?.ToString() == dept.DepartmentId.ToString())">
+                        @dept.DepartmentName
+                    </option>
+                }
+            </select>
+        </div>
+        <div class="col-md-2">
+            <a asp-action="Index" class="btn btn-outline-primary">
+                <i class="fas fa-times me-1"></i>Clear
+            </a>
+        </div>
+    </form>
+</div>
+
+<div class="row g-4">
+    @foreach (var doc in Model)
+    {
+        <div class="col-md-4">
+            <div class="card h-100">
+                <div class="card-body p-4">
+                    <div class="d-flex align-items-center mb-3">
+                        <div style="width:60px;height:60px;background:linear-gradient(135deg,#FFD700,#FFA500);
+                            border-radius:50%;display:flex;align-items:center;justify-content:center;
+                            font-size:1.6rem;color:#5D4037;margin-right:15px;flex-shrink:0;">
+                            <i class="fas fa-user-md"></i>
+                        </div>
+                        <div>
+                            <h6 class="mb-0 fw-bold">Dr. @doc.FullName</h6>
+                            <small style="color:#FFA500;">@doc.Specialization</small>
+                        </div>
+                    </div>
+                    <div class="mb-3">
+                        <span class="badge px-3 py-2 mb-2"
+                            style="background:linear-gradient(135deg,#FFE566,#FFD700);color:#2C1810;">
+                            <i class="fas fa-building me-1"></i>@doc.DepartmentName
+                        </span>
+                        <br/>
+                        <small class="text-muted">
+                            <i class="fas fa-briefcase me-1" style="color:#FFA500"></i>
+                            @doc.ExperienceYears Years Experience
+                        </small><br/>
+                        <small class="text-muted">
+                            <i class="fas fa-clock me-1" style="color:#FFA500"></i>
+                            @(doc.Availability ?? "Contact for availability")
+                        </small>
+                    </div>
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <div class="d-flex gap-2">
+                            <a asp-action="Edit" asp-route-id="@doc.DoctorId"
+                               class="btn btn-warning btn-sm flex-fill">
+                                <i class="fas fa-edit me-1"></i>Edit
+                            </a>
+                            <button class="btn btn-danger btn-sm"
+                                    onclick="confirmDelete(@doc.DoctorId,'Dr. @doc.FullName')">
+                                <i class="fas fa-trash"></i>
+                            </button>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    }
+    @if (!Model.Any())
+    {
+        <div class="col-12 text-center py-5">
+            <i class="fas fa-user-md fa-4x mb-3" style="color:#FFD700;opacity:0.5;"></i>
+            <h5 class="text-muted">No doctors found.</h5>
+        </div>
+    }
+</div>
+
+<div class="modal fade" id="deleteModal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content" style="border-radius:16px;">
+            <div class="modal-header" style="background:linear-gradient(135deg,#FFD700,#FFA500);">
+                <h5 class="modal-title fw-bold">Confirm Delete</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">Remove <strong id="docName"></strong> from the system?</div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                <a id="deleteLink" class="btn btn-danger"><i class="fas fa-trash me-2"></i>Delete</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+<script>
+function confirmDelete(id, name) {
+    document.getElementById('docName').innerText = name;
+    document.getElementById('deleteLink').href = '/Doctors/Delete/' + id;
+    new bootstrap.Modal(document.getElementById('deleteModal')).show();
+}
+</script>
+}

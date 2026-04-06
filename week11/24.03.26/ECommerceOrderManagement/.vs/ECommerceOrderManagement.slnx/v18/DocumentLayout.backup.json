@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week11\\24.03.26\\ECommerceOrderManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6514DEC-6BAD-8CDE-2515-310C5FC9D093}|ECommerceOrderManagement.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week11\\24.03.26\\ecommerceordermanagement\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6514DEC-6BAD-8CDE-2515-310C5FC9D093}|ECommerceOrderManagement.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6514DEC-6BAD-8CDE-2515-310C5FC9D093}|ECommerceOrderManagement.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week11\\24.03.26\\ecommerceordermanagement\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6514DEC-6BAD-8CDE-2515-310C5FC9D093}|ECommerceOrderManagement.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6514DEC-6BAD-8CDE-2515-310C5FC9D093}|ECommerceOrderManagement.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week11\\24.03.26\\ecommerceordermanagement\\views\\admin\\updateshipping.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6514DEC-6BAD-8CDE-2515-310C5FC9D093}|ECommerceOrderManagement.csproj|solutionrelative:views\\admin\\updateshipping.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6514DEC-6BAD-8CDE-2515-310C5FC9D093}|ECommerceOrderManagement.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week11\\24.03.26\\ecommerceordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6514DEC-6BAD-8CDE-2515-310C5FC9D093}|ECommerceOrderManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6514DEC-6BAD-8CDE-2515-310C5FC9D093}|ECommerceOrderManagement.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week11\\24.03.26\\ecommerceordermanagement\\migrations\\20260324085731_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6514DEC-6BAD-8CDE-2515-310C5FC9D093}|ECommerceOrderManagement.csproj|solutionrelative:migrations\\20260324085731_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6514DEC-6BAD-8CDE-2515-310C5FC9D093}|ECommerceOrderManagement.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week11\\24.03.26\\ecommerceordermanagement\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6514DEC-6BAD-8CDE-2515-310C5FC9D093}|ECommerceOrderManagement.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6514DEC-6BAD-8CDE-2515-310C5FC9D093}|ECommerceOrderManagement.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week11\\24.03.26\\ecommerceordermanagement\\models\\shippingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,20 +35,8 @@
       "RelativeMoniker": "D:0:0:{B6514DEC-6BAD-8CDE-2515-310C5FC9D093}|ECommerceOrderManagement.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6514DEC-6BAD-8CDE-2515-310C5FC9D093}|ECommerceOrderManagement.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week11\\24.03.26\\ecommerceordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6514DEC-6BAD-8CDE-2515-310C5FC9D093}|ECommerceOrderManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6514DEC-6BAD-8CDE-2515-310C5FC9D093}|ECommerceOrderManagement.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week11\\24.03.26\\ecommerceordermanagement\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6514DEC-6BAD-8CDE-2515-310C5FC9D093}|ECommerceOrderManagement.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B6514DEC-6BAD-8CDE-2515-310C5FC9D093}|ECommerceOrderManagement.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week11\\24.03.26\\ecommerceordermanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B6514DEC-6BAD-8CDE-2515-310C5FC9D093}|ECommerceOrderManagement.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6514DEC-6BAD-8CDE-2515-310C5FC9D093}|ECommerceOrderManagement.csproj|c:\\users\\diksh\\source\\repos\\capgemini_cu_sec3_netwebazure_dikshas\\week11\\24.03.26\\ecommerceordermanagement\\views\\admin\\updateshipping.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B6514DEC-6BAD-8CDE-2515-310C5FC9D093}|ECommerceOrderManagement.csproj|solutionrelative:views\\admin\\updateshipping.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,24 +46,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week11\\24.03.26\\ECommerceOrderManagement\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week11\\24.03.26\\ECommerceOrderManagement\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAvwFsAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAFcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T09:37:57.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T09:37:57.057Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "20260324085731_fix.cs",
               "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week11\\24.03.26\\ECommerceOrderManagement\\Migrations\\20260324085731_fix.cs",
               "RelativeDocumentMoniker": "Migrations\\20260324085731_fix.cs",
@@ -71,36 +70,11 @@
               "RelativeToolTip": "Migrations\\20260324085731_fix.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T08:57:32.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T08:57:32.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ShippingDetail.cs",
-              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week11\\24.03.26\\ECommerceOrderManagement\\Models\\ShippingDetail.cs",
-              "RelativeDocumentMoniker": "Models\\ShippingDetail.cs",
-              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week11\\24.03.26\\ECommerceOrderManagement\\Models\\ShippingDetail.cs",
-              "RelativeToolTip": "Models\\ShippingDetail.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBAAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T08:56:13.484Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week11\\24.03.26\\ECommerceOrderManagement\\Views\\Orders\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Orders\\Create.cshtml",
-              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week11\\24.03.26\\ECommerceOrderManagement\\Views\\Orders\\Create.cshtml",
-              "RelativeToolTip": "Views\\Orders\\Create.cshtml",
-              "ViewState": "AgIAADQAAAAAAAAAAAAiwE0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-24T08:40:56.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week11\\24.03.26\\ECommerceOrderManagement\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
@@ -112,31 +86,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week11\\24.03.26\\ECommerceOrderManagement\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week11\\24.03.26\\ECommerceOrderManagement\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-24T07:21:28.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "SeedData.cs",
               "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week11\\24.03.26\\ECommerceOrderManagement\\Data\\SeedData.cs",
               "RelativeDocumentMoniker": "Data\\SeedData.cs",
               "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week11\\24.03.26\\ECommerceOrderManagement\\Data\\SeedData.cs",
               "RelativeToolTip": "Data\\SeedData.cs",
-              "ViewState": "AgIAAN8AAAAAAAAAAAAcwPkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAANkAAAAAAAAAAAAcwPkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T07:20:49.485Z"
+              "WhenOpened": "2026-03-24T07:20:49.485Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week11\\24.03.26\\ECommerceOrderManagement\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -148,15 +123,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "UpdateShipping.cshtml",
               "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week11\\24.03.26\\ECommerceOrderManagement\\Views\\Admin\\UpdateShipping.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\UpdateShipping.cshtml",
               "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week11\\24.03.26\\ECommerceOrderManagement\\Views\\Admin\\UpdateShipping.cshtml",
               "RelativeToolTip": "Views\\Admin\\UpdateShipping.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwCIAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-24T05:29:46.272Z"
+              "WhenOpened": "2026-03-24T05:29:46.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week11\\24.03.26\\ECommerceOrderManagement\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week11\\24.03.26\\ECommerceOrderManagement\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Create.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAiwE0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T08:40:56.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShippingDetail.cs",
+              "DocumentMoniker": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week11\\24.03.26\\ECommerceOrderManagement\\Models\\ShippingDetail.cs",
+              "RelativeDocumentMoniker": "Models\\ShippingDetail.cs",
+              "ToolTip": "C:\\Users\\diksh\\source\\repos\\Capgemini_CU_Sec3_NetWebAzure_DikshaS\\week11\\24.03.26\\ECommerceOrderManagement\\Models\\ShippingDetail.cs",
+              "RelativeToolTip": "Models\\ShippingDetail.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T08:56:13.484Z"
             }
           ]
         }

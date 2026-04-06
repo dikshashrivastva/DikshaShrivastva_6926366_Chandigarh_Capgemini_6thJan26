@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>TransactX | Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="dashboard">
+    <div class="topbar">
+      <div class="brand">
+        <span class="brand-icon">⬡</span>
+        <h1>TransactX</h1>
+      </div>
+      <button class="btn-logout" onclick="logout()">Logout</button>
+    </div>
+
+    <div class="dashboard-body">
+      <h2 class="section-title">Transaction History</h2>
+
+      <div class="stats-row">
+        <div class="stat-card">
+          <span class="stat-label">Total Credits</span>
+          <span class="stat-value credit" id="totalCredit">0.00</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-label">Total Debits</span>
+          <span class="stat-value debit" id="totalDebit">0.00</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-label">Total Transactions</span>
+          <span class="stat-value" id="totalCount">0</span>
+        </div>
+      </div>
+
+      <div class="table-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Date</th>
+              <th>Type</th>
+              <th>Amount</th>
+            </tr>
+          </thead>
+          <tbody id="transactionBody">
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
